@@ -1,0 +1,1633 @@
+election,0,election,[mark  dobj],rigging,0,0,0
+democracy,0,0,[case  det  nmod],skid,of,democracy,0
+wealth,0,0,[case  det  nmod],hub,0,0,0
+diplomatic,0,0,[case  amod  cc  conj  cc  conj],manoeuvring,0,0,0
+diplomatic,0,0,[case  amod  cc  conj  cc  conj],manoeuvring,diplomatic,manoeuvring,0
+democracy,0,0,[case  det  nmod],skid,0,0,0
+democracy,0,0,[case  det  nmod],skid,by,democracy,0
+democracy,0,0,[case  det  nmod],skid,of,democracy,0
+Democracy,we,Democracy,[aux  nsubj  dobj],Accelerate,0,0,0
+money,money,0,[mark  nsubj  cop  nmod],necessary,0,0,1
+government,0,0,[case  det  amod  nmod],climate,of,government,1
+Guns,Guns,0,[nsubj  cop],cool,0,0,1
+Treasury Department,sanction,Department,[nsubj  dobj  xcomp],allow,0,0,1
+money,money,0,[mark  nsubj  cop  nmod],necessary,to,people,1
+debt,debt,0,[mark  nsubjpass  auxpass  advmod],frozen,0,0,1
+government,0,0,[case  det  amod  nmod],climate,0,0,1
+money,0,money,[mark  dobj  advcl],prevent,0,0,1
+bureaucracy,0,power,[mark  dobj  nmod  advcl],lose,to,bureaucracy,1
+taxation,who,0,[nsubj  aux  advmod  nmod],benefitted,from,taxation,2
+government,0,0,[amod  compound  advmod],corrupts,absolute,corrupts,2
+taxation,who,0,[nsubj  aux  advmod  nmod],benefitted,0,0,2
+government,0,0,[amod  compound  advmod],corrupts,0,0,2
+gun,0,0,[case  det  amod  compound  acl],turd,anti,turd,2
+gun,0,0,[case  det  amod  compound  acl],turd,0,0,2
+Elections,0,0,[nmod:poss],legislation,0,0,2
+Elections,0,0,[nmod:poss],legislation,',Elections,2
+election system,Minnesota,system,[mark  nsubj  dobj  cc  conj],ha,0,0,2
+taxation,taxation,0,[nsubj  cop  det  nmod],parasite,on,life,3
+taxes,tax,0,[advmod  nsubj  cop  det  nmod  acl:relcl],kind,of,parasite,3
+congress,0,0,[det  nmod  dep],parasite,0,0,3
+congressmen,0,0,[det  nmod],infestation,of,congressman,3
+bureaucratic,It,0,[nsubj  cop  det  amod  amod  acl:relcl],parasite,bureaucratic,parasite,3
+taxation,0,0,[det  nmod  cc  conj],leech,0,0,3
+congressmen,0,0,[det  nmod],infestation,0,0,3
+government,0,0,[case  det  amod  det  nmod],parasite,vast,parasite,3
+bureaucratic,It,0,[nsubj  cop  det  amod  amod  acl:relcl],parasite,huge,parasite,3
+taxation,0,0,[det  nmod  cc  conj],leech,of,taxation,3
+congress,0,0,[det  nmod  dep],parasite,of,congress,3
+bureaucrats,bureaucrat,0,[nsubj  compound:prt  advcl],live,0,0,3
+taxes,tax,0,[advmod  nsubj  cop  det  nmod  acl:relcl],kind,0,0,3
+government,0,0,[case  det  compound  nmod],one,0,0,3
+bureaucratic,It,0,[nsubj  cop  det  amod  amod  acl:relcl],parasite,0,0,3
+government,0,0,[case  det  compound  nmod],one,in,government,3
+government,0,0,[case  det  amod  det  nmod],parasite,0,0,3
+bureaucratic,0,0,[case  det  amod],carpet,bureaucratic,carpet,4
+bureaucracy,0,0,[det  cc  conj],LDP,0,0,4
+bureaucratic,0,0,[case  det  amod],carpet,0,0,4
+firearm,0,0,[case  amod  compound],thread,pro/anti,thread,4
+gun control,you,0,[nsubj  aux  cop  case  det  compound  compound],thread,0,0,4
+gun control,you,0,[nmod  nsubj  aux  ccomp],post,In,thread,4
+democracy,0,0,[case  det  nmod],drapery,of,democracy,4
+firearm,0,0,[case  amod  compound],thread,0,0,4
+election,0,election,[mark  dobj],oversee,0,0,5
+taxation,0,0,[det  nmod],extortion,of,taxation,5
+taxation,0,0,[det  nmod],extortion,0,0,5
+votes,vote,0,[dep  nsubj  cop  det  nmod],part,appointed,part,5
+wealthy,0,0,[det  amod],cheat,0,0,5
+taxpayers,government,taxpayer,[advmod  nsubj  dobj  advcl],extorts,0,0,5
+election,0,election,[mark  dobj],stealing,0,0,5
+wealthy,0,0,[det  amod],cheat,wealthy,cheat,5
+election,0,0,[det  compound],certificate,0,0,5
+taxes,0,0,[case  det  nmod],extortion,0,0,5
+taxpayer,0,taxpayer,[dobj  nmod],robbing,under,pretense,5
+election,0,0,[case  nmod:poss  amod  amod  dep],leadership,own,leadership,5
+taxes,0,0,[case  det  nmod],extortion,of,tax,5
+election,0,0,[case  nmod:poss  amod  amod  dep],leadership,0,0,5
+elections,you,0,[nsubj  xcomp],stole,0,0,5
+Democracy,0,0,[det  nmod],larceny,0,0,5
+taxation,taxation,0,[mark  nsubj  cop  advcl  mark  nsubj  cop  neg],theft,0,0,5
+taxation,taxation,0,[nsubj  cop  cc  conj  nsubj  cop  neg],theft,0,0,5
+votes,vote,0,[dep  nsubj  cop  det  nmod],part,0,0,5
+Democracy,0,0,[det  nmod],larceny,of,Democracy,5
+government,that,government,[nsubj  aux  dobj  conj  dobj  cc  conj  dobj  nmod],stolen,0,0,5
+government,that,government,[nsubj  aux  dobj  conj  dobj  cc  conj  dobj  nmod],stolen,from,country,5
+democratic,0,0,[case  nmod:poss  amod  amod],carpet,beautiful,carpet,6
+democratic,0,0,[case  nmod:poss  amod  amod],carpet,0,0,6
+democracy,0,0,[case  det  compound],veneer,0,0,6
+taxation,0,0,[nmod:poss  nmod],curtain,of,taxation,6
+wealth,0,0,[det  cc  conj  nmod  acl:relcl],glamour,0,0,6
+democratic,0,0,[case  nmod:poss  amod  amod],carpet,democratic,carpet,6
+wealth,0,0,[det  cc  conj  nmod  acl:relcl],glamour,of,wealth,6
+democracy,democracy,disparity,[mark  nsubj  dobj],alleviates,0,0,7
+electorate,electorate,pill,[nsubj  dobj  advmod],swallow,0,0,7
+tax,Division,tax,[nsubj  dobj],administers,0,0,7
+democracy,0,0,[case  det  amod  nmod],dose,0,0,7
+wealth,0,0,[case  conj  cc  conj],spotless,0,0,7
+poverty,grant,poverty,[mark  nsubj  mark  dobj],alleviate,0,0,7
+legislation,legislation,fraud,[mark  nsubj  dobj],cure,0,0,7
+poverty,0,poverty,[mark  dobj],alleviate,0,0,7
+bureaucratic,0,0,[case  det  amod  nmod],balm,0,0,7
+democracy,0,0,[det  nmod],balm,0,0,7
+poverty,0,poverty,[mark  dobj  cc  conj],alleviate,0,0,7
+bureaucracy,0,0,[amod  compound  cc  conj],intervention,0,0,7
+democracy,0,0,[case  det  amod  nmod],dose,of,democracy,7
+democracy,0,0,[case  det  amod  nmod],dose,big,dose,7
+bureaucracy,0,0,[amod  compound  cc  conj],intervention,More,intervention,7
+elections,you,election,[nsubj  dobj],inject,0,0,7
+poverty,0,poverty,[mark  dobj],alleviate,0,0,7
+democracy,democracy,rift,[nsubj  dobj],heals,0,0,7
+Poverty,0,0,[cc  conj  nmod],Tools,to,Poverty,7
+Poverty,0,0,[cc  conj  nmod],Tools,0,0,7
+democracy,0,0,[case  det  compound],cure,0,0,7
+gun control,0,0,[nmod:poss  compound  compound  nmod],journey,0,0,8
+gun control,0,0,[nmod:poss  compound  compound  nmod],journey,'s,mayor,8
+government,0,0,[case  det  nmod],direction,0,0,8
+democracy,democracy,0,[nmod  advmod  nsubj  nmod],travel,0,0,8
+democracy,democracy,0,[nmod  advmod  nsubj  nmod],travel,Like,idea,8
+democracy,democracy,0,[nmod  advmod  nsubj  nmod],travel,through,mind,8
+gun control,0,0,[nmod:poss  compound  compound  nmod],journey,a,everything,8
+democracy,0,0,[case  det  nmod],route,0,0,8
+democracy,0,0,[case  det  nmod],route,of,democracy,8
+election,0,0,[case  det  compound],destination,0,0,8
+government,0,0,[case  det  nmod],direction,of,government,8
+bureaucracy,Congress,bureaucracy,[nmod  nsubj  aux  dobj],traverse,In,endeavor,8
+gun control,control,those,[advcl  nsubj  dobj],punishes,0,0,9
+democracy,0,0,[case  det  nmod],rule,of,democracy,9
+wealth,0,0,[det  amod  nmod],movement,0,0,10
+income,income,individual,[dobj  nsubj  dobj  nmod],stay,0,0,10
+governments,government,0,[nmod  nsubj  aux  xcomp],moving,0,0,10
+government,0,0,[det  nmod],course,of,government,10
+due process,0,0,[nmod],something,at,process,10
+government,government,0,[advmod  nsubj  advcl],remain,0,0,10
+democracy,0,0,[det  nmod],spread,0,0,10
+gun control,control,criminal,[mark  nsubj  aux  neg  dobj],stop,0,0,10
+gun control,0,0,[nmod:poss  nmod],push,'s,Obama,10
+Taxation,Taxation,0,[nsubj  xcomp  parataxis  advcl  advmod  nmod  advcl  advmod  parataxis],went,than,that,10
+guns,gun,0,[advmod  nsubj  nmod  nmod],bring,0,0,10
+Money,0,0,[compound],Walks,0,0,10
+gun control,0,0,[nmod:poss  nmod],push,0,0,10
+democracy,0,democracy,[dobj  advcl],Transforming,0,0,10
+gun control,0,0,[nmod  advcl],pushing,about,control,10
+government,0,0,[det  nmod],course,0,0,10
+poverty,0,0,[det  nmod],cycle,0,0,10
+gun control,0,0,[nmod  advcl],pushing,for,control,10
+guns,0,gun,[dobj  advcl],avoid,willing,avoid,10
+wealth,0,0,[det  amod  nmod],movement,of,wealth,10
+gun control,0,0,[det  compound  compound  case],advocate,0,0,10
+income,income,individual,[dobj  nsubj  dobj  nmod],stay,in,year,10
+income,income,individual,[dobj  nsubj  dobj  nmod],stay,individual,stay,10
+democracy,democracy,0,[nsubj  cop  neg  nmod  advcl],interchangeable,with,regime,10
+poverty,life,0,[nsubjpass  auxpass  advmod  nmod  dep],driven,0,0,10
+poverty,0,0,[case  amod  cc  conj],growth,0,0,10
+democracy,0,0,[det  nmod],spread,of,democracy,10
+guns,0,gun,[dobj  advcl],avoid,0,0,10
+gun control,0,control,[dobj  dep],pushing,0,0,10
+democracy,Preparations,0,[nsubj  nmod],made,0,0,10
+Taxation,Taxation,0,[nsubj  xcomp  parataxis  advcl  advmod  nmod  advcl  advmod  parataxis],went,0,0,10
+democracy,0,democracy,[mark  dobj  nmod],spread,0,0,10
+money,0,0,[amod  compound  acl:relcl],movement,0,0,10
+tax,0,0,[nummod  dep],PM,0,0,10
+democracy,0,0,[case  det  amod  compound  acl:relcl],movement,Chinese,movement,10
+states,0,0,[compound  compound  conj  cc  conj],group,0,0,10
+democracy,0,0,[case  det  amod  compound  acl:relcl],movement,0,0,10
+governments,government,0,[advmod  nsubj  aux  nmod  nmod  cc  conj],moving,toward,reform,10
+governments,government,0,[advmod  nsubj  aux  nmod  nmod  cc  conj],moving,with,view,10
+gun rights,0,0,[compound  compound],movement,0,0,10
+gun control,0,0,[nmod  advcl],pushing,0,0,10
+guns,gun,0,[advmod  nsubj  nmod  nmod],bring,in,lot,10
+poverty,life,0,[nsubjpass  auxpass  advmod  nmod  dep],driven,by,poverty,10
+poverty,0,0,[case  amod  cc  conj],growth,economic,growth,10
+gun control,0,0,[nmod:poss  nmod],push,for,control,10
+wealth,wealth,them,[nsubj  dobj],grant,0,0,11
+Constitution,0,0,[case  det  amod  nmod],birthright,divine,birthright,11
+democracy,democracy,right,[mark  nsubj  aux  dep  dobj],grant,0,0,11
+wealth,0,0,[det  nmod],birthright,of,wealth,11
+wealth,0,0,[det  nmod],birthright,0,0,11
+Constitution,0,0,[case  det  amod  nmod],birthright,of,Constitution,11
+Constitution,0,0,[case  det  amod  nmod],birthright,0,0,11
+poverty,poverty,0,[mark  advmod  nsubj  cop  det  nmod  cc  conj],birthright,0,0,11
+democracy,0,0,[det  nmod],purpose,of,democracy,12
+senate,senate,lot,[nsubj  dobj],spews,0,0,13
+tax,0,0,[case  cc  conj],tax,0,0,13
+Democracy,0,0,[case  det  nmod],rain,0,0,13
+wealth,0,0,[case  nmod],devastation,of,wealth,13
+Congress,0,0,[nmod:poss  amod  nmod],member,of,Congress,13
+civil rights,0,0,[case  det  amod  amod  compound],storm,civil,storm,13
+wealth,0,0,[case  det  compound],avalanche,0,0,13
+Congress,0,0,[nmod:poss  amod  nmod],member,0,0,13
+tax,0,0,[case  det  compound],shelter,0,0,13
+democracy,class,0,[nmod  nsubj  advmod  cop  acl],democracy,From,emerge,13
+government,they,government,[nsubj  aux  neg  dobj  advcl  nsubj  aux  dobj  cc  conj  cc  conj],reopen,0,0,13
+people power,0,0,[det  nmod],avalanche,0,0,13
+democracy,class,0,[nmod  nsubj  advmod  cop  acl],democracy,0,0,13
+election,0,0,[det  compound],dust,0,0,13
+Congress,0,0,[nmod:poss  amod  nmod],member,own,member,13
+congressman,Reid,0,[nsubj  cop  advmod  det  amod  nmod],congressman,lowest,congressman,14
+duty,0,0,[case  det  compound  compound],variation,0,0,14
+Capital gains tax rates,rate,0,[nsubj  nmod  advmod],reduce,0,0,14
+management,0,0,[amod  nmod],tier,0,0,14
+minimum wage,Newfoundland,wage,[mark  nsubj  aux  dobj  nmod  nmod],increase,to,10,14
+duty,0,0,[det  amod  nmod],level,0,0,14
+congressman,Reid,0,[nsubj  cop  advmod  det  amod  nmod],congressman,0,0,14
+tax,we,tax,[nsubj  dobj  advcl],raise,0,0,14
+hunger,0,hunger,[advmod  dobj  nmod],boosting,0,0,14
+tax,0,0,[det  compound  cc  conj  nmod],efficiency,to,tool,14
+Senate,0,0,[amod  nmod],point,of,Senate,14
+Senate,0,0,[amod  nmod],point,low,point,14
+Senate,0,0,[amod  nmod],point,0,0,14
+congressman,Reid,0,[nsubj  cop  advmod  det  amod  nmod],congressman,in,history,14
+management,0,0,[amod  nmod],tier,of,management,14
+minimum wage,Newfoundland,wage,[mark  nsubj  aux  dobj  nmod  nmod],increase,over,month,14
+duty,0,0,[det  amod  nmod],level,same,level,14
+duty,0,0,[det  amod  nmod],level,of,duty,14
+minimum wage,0,wage,[mark  dobj],raise,0,0,14
+Capital gains tax rates,rate,0,[nsubj  nmod  advmod],reduce,to,%,14
+poverty,0,0,[compound  compound],status,0,0,14
+democracy,0,0,[det  nmod  acl:relcl],apex,of,democracy,14
+democracy,0,0,[det  nmod  acl:relcl],apex,0,0,14
+hunger,0,hunger,[advmod  dobj  nmod],boosting,around,world,14
+tax,0,0,[det  compound  cc  conj  nmod],efficiency,0,0,14
+taxes,tax,0,[mark  nsubj  aux  neg],rise,0,0,14
+poverty,poverty,output,[mark  nsubj  dobj  nmod  conj  conj  cc  conj  dobj  nmod],reduces,by,percent,15
+tax rate,rate,0,[nsubj  aux  nmod  nmod],drop,to,%,15
+taxation,0,0,[det  nmod],decline,0,0,15
+wealth,wealth,saving,[mark  nsubj  dobj  nmod  cc  conj  mark  nsubj  dobj  nmod],reduces,by,cent,15
+wealth,wealth,saving,[mark  nsubj  dobj  nmod  cc  conj  mark  nsubj  dobj  nmod],reduces,by,cent,15
+inequality,0,inequality,[dobj],reduce,0,0,15
+tariffs,tariff,0,[nsubj  nmod  nmod],declined,0,0,15
+tax rate,rate,0,[nsubj  aux  nmod  nmod],drop,from,%,15
+tax rates,rate,0,[nmod  nsubj  cc  conj],fell,0,0,15
+property taxes,0,tax,[dobj  nmod],cut,0,0,15
+tariff,0,0,[case  compound  nmod],reduction,0,0,15
+poverty,0,poverty,[mark  dobj  nmod],reduce,across,race,15
+tariffs,tariff,0,[nsubj  nmod  nmod],declined,on,average,15
+tax rate,rate,0,[nsubj  aux  nmod  nmod],drop,0,0,15
+tariffs,tariff,0,[nsubj  nmod  nmod],declined,by,30,15
+poverty,poverty,output,[mark  nsubj  dobj  nmod  conj  conj  cc  conj  dobj  nmod],reduces,by,percent,15
+tax collections,0,collection,[mark  dobj],decreasing,0,0,15
+gun,he,0,[mark  nsubjpass  auxpass  nmod  nmod  nmod],dropped,by,gun,15
+gun,he,0,[mark  nsubjpass  auxpass  nmod  nmod  nmod],dropped,onto,floor,15
+taxation,0,0,[det  nmod],decline,of,taxation,15
+government,government,0,[mark  nsubj],did,0,0,15
+tax rates,rate,0,[nmod  nsubj  cc  conj],fell,After,WWII,15
+poverty,0,poverty,[mark  dobj],reducing,0,0,15
+tax rate,rate,0,[nsubj  aux  nmod  nmod],drop,from,%,15
+wealth,wealth,saving,[mark  nsubj  dobj  nmod  cc  conj  mark  nsubj  dobj  nmod],reduces,by,cent,15
+property taxes,0,tax,[dobj  nmod],cut,for,resident,15
+poverty,poverty,output,[mark  nsubj  dobj  nmod  conj  conj  cc  conj  dobj  nmod],reduces,by,percent,15
+poverty,poverty,output,[mark  nsubj  dobj  nmod  conj  conj  cc  conj  dobj  nmod],reduces,by,percent,15
+wealth,wealth,saving,[mark  nsubj  dobj  nmod  cc  conj  mark  nsubj  dobj  nmod],reduces,by,cent,15
+tariff,0,0,[case  compound  nmod],reduction,in,product,15
+tariff,0,0,[case  compound  nmod],reduction,on,product,15
+starvation,0,0,[nmod  nmod],falling,0,0,15
+poverty,poverty,output,[mark  nsubj  dobj  nmod  conj  conj  cc  conj  dobj  nmod],reduces,by,percent,15
+poverty,0,poverty,[mark  dobj  nmod],reduce,0,0,15
+gun,he,0,[mark  nsubjpass  auxpass  nmod  nmod  nmod],dropped,to,back,15
+starvation,0,0,[nmod  nmod],falling,into,starvation,15
+tax rate,rate,0,[nsubj  aux  nmod  nmod],drop,to,%,15
+poverty,poverty,0,[nsubj  aux  advmod  advcl],decline,0,0,15
+income taxes,0,tax,[mark  dobj],cutting,0,0,15
+wealth,wealth,saving,[mark  nsubj  dobj  nmod  cc  conj  mark  nsubj  dobj  nmod],reduces,0,0,15
+starvation,0,0,[nmod  nmod],falling,over,edge,15
+bureaucracy,0,bureaucracy,[neg  dobj],create,0,0,16
+government,government,0,[nsubj  nmod  ccomp],saw,dependent,saw,16
+government,government,0,[nsubj  nmod  ccomp],saw,0,0,16
+gun control,0,0,[case  det  amod  compound  compound  compound],fruit,0,0,16
+government,government,0,[nsubj  nmod  ccomp],saw,to,it,16
+government,government,.15,[mark  nsubj  compound:prt  dobj],gobble,0,0,16
+wealth,0,0,[case  det  nmod  appos  det  nmod  appos  det  nmod],wine,of,influence,16
+democracy,0,0,[det  nmod],savor,0,0,16
+democracy,0,0,[det  nmod],savor,of,democracy,16
+government,0,0,[case  det  amod  nmod],appetite,0,0,16
+wealth,0,0,[case  det  nmod  appos  det  nmod  appos  det  nmod],wine,of,wealth,16
+wealth,0,0,[case  det  nmod],consumption,of,wealth,16
+wealth,0,0,[case  det  nmod  appos  det  nmod  appos  det  nmod],wine,0,0,16
+democracy,democracy,0,[advcl  nsubj  xcomp],taste,sweet,taste,16
+Beggars,0,0,[compound],Banquet,0,0,16
+democracy,democracy,0,[advcl  nsubj  xcomp],taste,0,0,16
+wealth,0,0,[case  det  nmod],consumption,0,0,16
+democracy,democracy,0,[cc  nmod  nsubj  cop],bitter,unlike,cake,16
+legislation,0,0,[det  nmod],piece,of,legislation,16
+legislation,0,0,[det  nmod],piece,0,0,16
+firearms,firearm,force,[nmod  nsubj  dobj],project,At,point,17
+diplomatic,0,0,[case  amod  cc  conj],approach,diplomatic,approach,17
+diplomatic,0,0,[case  amod  cc  conj],approach,0,0,17
+government,0,0,[nmod:poss],monopoly,'s,government,18
+Gun control,control,time,[nsubj  iobj  dobj  cc  conj],demonstrates,0,0,18
+election,0,0,[case  det  amod  cc  conj  nmod],falseness,general,falseness,18
+taxation,it,people,[nsubj  dobj  nmod  nmod],incarcerating,by,taxation,18
+poverty,Panama,poverty,[nmod  nsubj  dobj  cc  conj],see,0,0,18
+legislation,legislation,0,[mark  nsubj  aux  neg  xcomp  cc  conj],appear,0,0,18
+taxation,it,people,[nsubj  dobj  nmod  nmod],incarcerating,0,0,18
+election,0,0,[case  det  amod  cc  conj  nmod],falseness,of,election,18
+government,who,government,[nsubj  dobj  nmod  advcl],saw,a,institution,18
+election,0,0,[case  det  amod  cc  conj  nmod],falseness,0,0,18
+firearms,firearm,rate,[nsubj  dobj  dobj],lower,criminal,lower,18
+gun controls,control,point,[nsubj  dobj],view,0,0,18
+democracy,0,0,[nmod  dep  nmod],elsewhere,0,0,18
+Government,Government,0,[nmod  nsubj  ccomp],recognised,In,1977,18
+established,0,0,[mark  xcomp  nmod  advcl],become,0,0,18
+poverty,0,poverty,[dobj],seeing,0,0,18
+government,who,government,[nsubj  dobj  nmod  advcl],saw,0,0,18
+lawsuit,lawsuit,injustice,[nsubj  dobj],expose,0,0,18
+firearms,firearm,rate,[nsubj  dobj  dobj],lower,0,0,18
+established,0,0,[mark  xcomp  nmod  advcl],become,to,market,18
+exemption,0,0,[case  compound  cc  conj],Act,0,0,18
+elections,election,0,[mark  nsubj  cop  det  acl],way,0,0,18
+taxation,it,people,[nsubj  dobj  nmod  nmod],incarcerating,from,government,18
+gun control,She,control,[nsubj  dobj  nmod],see,0,0,18
+government,0,0,[nmod:poss],monopoly,0,0,18
+government,0,0,[nmod:poss],monopoly,'s,government,18
+poverty,Panama,poverty,[nmod  nsubj  dobj  cc  conj],see,Like,country,18
+democracy,democracy,0,[mark  nsubj  nmod],battle,for,life,19
+poverty,0,0,[case  det  nmod],attack,of,poverty,19
+poverty,0,0,[amod  compound  dep],assault,0,0,19
+poverty,0,0,[amod  compound  dep],assault,Such,assault,19
+poverty,0,0,[case  det  nmod],attack,0,0,19
+Gun control,control,0,[nsubj  advmod  nmod],flow,from,hatred,20
+moneys,0,0,[case  det  nmod  case  det],pool,0,0,20
+taxes,American,0,[nsubjpass  aux  auxpass  nmod  cc  conj],drowned,out,drowned,20
+gasoline taxes,0,0,[nummod  nmod],percent,of,tax,20
+gun control,0,0,[case  det  nmod],sea,of,control,20
+bureaucracy,bureaucracy,gain,[mark  nsubj  dobj],swamp,0,0,20
+poverty,0,0,[det  compound],tsunami,0,0,20
+moneys,0,0,[case  det  nmod  case  det],pool,of,money,20
+bureaucratic,0,0,[nmod:poss  amod  amod  cc  conj],vastness,0,0,20
+taxpayer,0,0,[mark  cop  det  compound  acl:relcl],tsunami,0,0,20
+income,0,0,[compound],flow,0,0,20
+Gun control,control,0,[nsubj  advmod  nmod],flow,0,0,20
+taxpayers,taxpayer,0,[advcl  nsubjpass  auxpass  nmod],swamped,by,tax,20
+anti-gun,0,0,[det  amod  amod  amod  nmod],fish,long,fish,20
+Bureaucracy,government,0,[advmod  nsubj  advcl],engulfed,0,0,20
+red tape,0,0,[case  det  nmod],waterfall,of,tape,20
+democracy,0,0,[det  amod  nmod],wave,0,0,20
+democracy,0,0,[det  amod  nmod],wave,tidal,wave,20
+Poverty,0,0,[case  det  nmod  dep],Sea,0,0,20
+democracy,0,0,[det  amod  nmod],wave,of,democracy,20
+regulations,0,0,[case  det  amod  compound  compound  nmod],ripple,new,ripple,20
+anti-gun,0,0,[det  amod  amod  amod  nmod],fish,standing,fish,20
+gun rights,0,0,[det  nmod],tide,0,0,20
+gun rights,0,0,[det  nmod],tide,of,right,20
+red tape,0,0,[det  amod  nmod],tsunami,fresh,tsunami,20
+red tape,0,0,[det  amod  nmod],tsunami,of,tape,20
+Poverty,0,0,[advmod  case  compound  compound  compound  compound],Too,0,0,20
+Sales Tax,0,0,[case  det  compound  compound  compound  compound  compound],Pool,0,0,20
+Poverty,0,0,[case  det  nmod  dep],Sea,of,Poverty,20
+regulations,0,0,[case  det  amod  compound  compound  nmod],ripple,0,0,20
+gun control,control,0,[nsubj  nmod],pours,0,0,20
+gun control,control,0,[nsubj  nmod],pours,on,propaganda,20
+anti-gun,0,0,[det  amod  amod  amod  nmod],fish,in,anti-gun,20
+bureaucratic,0,0,[nmod:poss  amod  amod  cc  conj],vastness,present,vastness,20
+bureaucratic,0,0,[nmod:poss  amod  amod  cc  conj],vastness,bureaucratic,vastness,20
+red tape,0,0,[case  det  nmod],waterfall,0,0,20
+taxes,American,0,[nsubjpass  aux  auxpass  nmod  cc  conj],drowned,0,0,20
+democracy,0,0,[case  nmod:poss  amod  compound  nmod],stagnates,'s,Iraq,20
+government,0,0,[case  compound],slush,0,0,20
+democracy,0,0,[case  nmod:poss  amod  compound  nmod],stagnates,0,0,20
+tax,0,0,[det  compound],freeze,0,0,20
+democracy,0,0,[case  nmod:poss  amod  compound  nmod],stagnates,in,uncertainty,20
+red tape,0,0,[det  amod  nmod],tsunami,0,0,20
+regulations,0,0,[case  det  amod  compound  compound  nmod],ripple,through,economy,20
+money,fund,0,[nsubj  cop  nmod  acl:relcl],pool,0,0,20
+anti-gun,0,0,[det  amod  amod  amod  nmod],fish,0,0,20
+taxpayers,taxpayer,0,[advcl  nsubjpass  auxpass  nmod],swamped,0,0,20
+poverty,0,poverty,[mark  dobj],overcome,0,0,21
+poverty,who,poverty,[nsubj  dobj  advcl],overcame,0,0,21
+management,0,0,[case  det  amod  nmod],amount,of,management,21
+homelessness,0,0,[amod],Recordings,0,0,21
+poverty,0,poverty,[mark  dobj  nmod],overcoming,in,community,21
+democracy,surveillance,democracy,[nsubj  dobj  dep  cc  conj],defeat,0,0,21
+poverty,0,0,[case  det  amod  nmod],surrender,of,poverty,21
+gun control,0,control,[mark  dobj  cc  conj],fight,0,0,21
+poverty,0,0,[case  det  amod  nmod],surrender,unconditional,surrender,21
+poverty,0,0,[case  det  amod  nmod],surrender,on,poverty,21
+regulation,0,regulation,[mark  dobj  nmod],harmonizing,0,0,21
+government,0,0,[case  nmod:poss],side,0,0,21
+government,0,0,[case  nmod:poss],side,'s,government,21
+taxation,0,0,[det  nmod  nmod],victory,of,taxation,21
+regulation,0,regulation,[mark  dobj  nmod],harmonizing,because,regulation,21
+gun control,0,control,[neg  dobj],fight,0,0,21
+management,0,0,[case  det  amod  nmod],amount,least,amount,21
+elections,0,election,[dobj],contending,0,0,21
+poverty,0,0,[nmod],mired,in,poverty,21
+poverty,0,0,[nmod],mired,0,0,21
+democracy,0,0,[case  amod  cc  conj],politics,0,0,21
+wealth,0,0,[case  det  nmod],defeat,0,0,21
+taxation,0,0,[det  nmod  nmod],victory,with,cliff,21
+taxation,0,0,[det  nmod  nmod],victory,0,0,21
+poverty,0,0,[case  det  amod  nmod],surrender,0,0,21
+Poverty,Yong,0,[aux  neg  auxpass  nmod  nsubjpass],Defeated,by,Poverty,21
+polls,0,0,[det  nmod],defeat,0,0,21
+freedom,0,0,[case  det  nmod  acl:relcl],defence,0,0,21
+wealth,wealth,0,[mark  nsubj  cop  det  nmod],enemy,of,faith,21
+freedom,0,0,[case  det  nmod  acl:relcl],defence,of,freedom,21
+democracy,0,0,[nmod:poss  nmod],style,0,0,21
+government,0,0,[case  nmod],proxy,for,government,21
+hunger,0,hunger,[mark  dobj  nmod],fighting,for,Bank,21
+management,0,0,[case  det  amod  nmod],amount,of,management,21
+government,0,0,[case  det  nmod],overthrow,0,0,21
+Elections,0,Elections,[dobj],capture,0,0,21
+Gun control,control,0,[nsubj  cop  nmod],lead,by,professional,22
+gun control,0,0,[det  compound  compound],leader,0,0,22
+Debting,0,0,[det  nmod:npmod  nmod],Lead,From,Debting,22
+government agency,Department,0,[advcl  nsubj  cop  neg  det  amod  compound  nmod  cc  conj],agency,0,0,22
+government agency,Department,0,[advcl  nsubj  cop  neg  det  amod  compound  nmod  cc  conj],agency,lead,agency,22
+government,government,bank,[advmod  aux  nsubj  dobj],regulate,0,0,22
+Senate,Senate,House,[nsubj  dobj],dominates,0,0,22
+Gun control,control,0,[nsubj  cop  nmod],lead,0,0,22
+government agency,Department,0,[advcl  nsubj  cop  neg  det  amod  compound  nmod  cc  conj],agency,on,incident,22
+Debting,0,0,[det  nmod:npmod  nmod],Lead,0,0,22
+wealth,wealth,0,[advcl  nsubj  aux  nmod],pay,for,solution,23
+poverty,0,0,[case  det  amod  nmod],squeeze,of,poverty,23
+money,0,0,[mark  det  amod  nmod],hoover,0,0,23
+guns,0,gun,[dobj  nmod],ripping,from,hand,23
+money,I,money,[nsubj  dobj  nmod  dep  dep  cc  conj],pull,from,bank,23
+money,0,0,[mark  det  amod  nmod],hoover,up,money,23
+gun rights,0,right,[aux  dobj  compound:prt],taken,0,0,23
+money,0,0,[mark  det  amod  nmod],hoover,rich,hoover,23
+money,0,0,[nmod],extract,a,money,23
+poverty,0,0,[case  det  amod  nmod],squeeze,0,0,23
+taxpayer,0,taxpayer,[mark  dobj  nmod],milk,for,cent,23
+taxpayer,0,taxpayer,[mark  dobj  nmod],milk,0,0,23
+poverty,0,0,[case  det  amod  nmod],squeeze,invisible,squeeze,23
+wealth,wealth,0,[advcl  nsubj  aux  nmod],pay,0,0,23
+federal government,money,0,[advmod  mark  nsubj  cop  det  nmod  det  case  dep],cocaine,of,government,24
+democracy,0,0,[nmod],drunk,on,democracy,24
+election,left,0,[nsubjpass  auxpass  nmod],intoxicated,by,election,24
+democracy,I,0,[nsubj  cop  nmod],high,0,0,24
+government,government,power,[nsubj  dobj  cc  conj],craves,0,0,24
+poverty,poverty,child,[nmod  nsubj  dobj  advcl],compels,0,0,24
+election,left,0,[nsubjpass  auxpass  nmod],intoxicated,0,0,24
+money,0,0,[compound  appos],inebriate,0,0,24
+democracy,democracy,0,[nsubj  cop],addictive,0,0,24
+Democracy,0,0,[det  nmod],drug,of,Democracy,24
+government,government,power,[nsubj  dobj  cc  conj],craves,different,craves,24
+bureaucracy,0,0,[case  det  nmod  cc  conj],overdose,of,bureaucracy,24
+bureaucratic,0,0,[case  amod],overdose,bureaucratic,overdose,24
+being poor,0,0,[mark  cop],poor,0,0,24
+Democracy,0,0,[det  nmod],drug,0,0,24
+election,0,0,[compound],addiction,0,0,24
+gun control,0,0,[case  det  nmod],addiction,of,control,24
+administrative,0,0,[amod],support,administrative,support,25
+government,government,0,[nsubj  cop  det  ccomp],framework,0,0,25
+property taxes,0,0,[advmod  case  det  amod  nmod],mainstay,0,0,25
+poverty,0,0,[det  nmod],pillar,0,0,25
+democracy,democracy,capital,[advmod  nsubj  dobj  nmod],underpins,to,shock,25
+poverty,0,poverty,[mark  compound:prt  dobj],tearing,0,0,25
+tariffs,0,0,[det  nmod],effect,of,tariff,25
+gun control,0,control,[mark  mark  dobj],create,0,0,25
+taxes,tax,church,[nsubj  dobj],support,0,0,25
+income tax,0,0,[det  compound  compound  compound  det  compound  compound  case  det  compound],system,0,0,25
+bureaucratic,0,0,[det  amod  amod],base,long-term,base,25
+democracy,democracy,people,[nsubj  dobj  nmod],house,0,0,25
+income tax,0,cap,[mark  dobj  nmod],remove,0,0,25
+property tax,0,0,[case  det  compound  nmod  case  det  compound  compound],tax,0,0,25
+universal suffrage,0,0,[case  det  nmod],framework,0,0,25
+democracy,It,0,[nsubj  cop  nmod],foundational,to,democracy,25
+administrative,0,0,[amod],support,0,0,25
+democracy,0,0,[amod  compound  dep],underpins,Economic,underpins,25
+property tax,0,0,[case  det  compound  nmod  case  det  compound  compound],tax,to,tax,25
+democracy,0,0,[amod  compound  dep],underpins,0,0,25
+wealth,0,0,[advmod  advmod  advcl  expl  aux  cop  nmod],creation,of,wealth,25
+tax,0,0,[det  compound],shelter,0,0,25
+democracy,0,democracy,[mark  dobj],underly,0,0,25
+democracy,democracy,people,[nsubj  dobj  nmod],house,from,walk,25
+property tax,0,0,[case  det  compound  nmod  case  det  compound  compound],tax,of,tax,25
+Constitution,0,0,[case  det  nmod  cc  conj],blueprint,0,0,25
+political,0,0,[amod  amod],support,possible,support,25
+tariffs,0,0,[det  nmod],effect,of,tariff,25
+political,0,0,[amod  amod],support,political,support,25
+democracy,0,0,[det  nmod],architecture,0,0,25
+red tape,0,0,[case  det  nmod],demolition,of,tape,25
+red tape,0,0,[case  det  nmod],demolition,0,0,25
+democracy,democracy,capital,[advmod  nsubj  dobj  nmod],underpins,0,0,25
+Legislature,Legislature,0,[nsubj  nmod  nmod],bulldozed,0,0,25
+income tax,0,cap,[mark  dobj  nmod],remove,on,tax,25
+progressive tax,0,0,[det  amod  amod  compound  cc  conj],structure,heavy,structure,25
+progressive tax,0,0,[det  amod  amod  compound  cc  conj],structure,0,0,25
+Legislature,Legislature,0,[nsubj  nmod  nmod],bulldozed,to,scheme,25
+democracy,democracy,itself,[mark  nsubj  dobj],installs,0,0,25
+democracy,It,0,[nsubj  cop  nmod],foundational,0,0,25
+Constitution,0,0,[case  det  nmod  cc  conj],blueprint,of,Constitution,25
+political,0,0,[amod  amod],support,0,0,25
+bureaucratic,0,0,[det  amod  amod],base,bureaucratic,base,25
+property taxes,0,0,[advmod  case  det  amod  nmod],mainstay,of,tax,25
+democracy,0,0,[det  nmod],architecture,of,democracy,25
+Legislature,Legislature,0,[nsubj  nmod  nmod],bulldozed,over,objection,25
+Wealth,Foundation,0,[cop  nsubj  dep],What,0,0,25
+tariffs,0,0,[det  nmod],effect,0,0,25
+gun control,control,self-defense,[nmod  nsubj  dobj],installed,With,gun,25
+election,0,0,[case  det  nmod],threshold,0,0,25
+gun rights,right,0,[dep  advmod  nsubjpass  aux  auxpass  advmod],demolished,0,0,25
+poverty,0,0,[case  det  nmod],pit,of,poverty,26
+poverty,poverty,0,[nmod  nsubj  cop  det  ccomp],mountain,With,percent,26
+poverty,poverty,0,[nmod  nsubj  cop  det  ccomp],mountain,0,0,26
+Gun Control,0,0,[case  det  compound  compound],pit,0,0,26
+legislation,Senate,legislation,[mark  nsubj  aux  advmod  dobj],release,0,0,27
+statute,statute,essence,[nsubj  dobj],capture,0,0,27
+democracy,Such,0,[nsubj  cop  det  amod  nmod  advcl],trap,of,democracy,27
+democracy,Such,0,[nsubj  cop  det  amod  nmod  advcl],trap,hidden,trap,27
+red tape,0,0,[case  det  nmod],bondage,0,0,27
+inequalities,0,inequality,[dobj  nmod],capture,0,0,27
+Democracy,Democracy,0,[nsubj  ccomp],did,0,0,27
+tax system,0,system,[mark  advmod  dobj],escape,0,0,27
+Tariffs,0,0,[nmod],Binding,0,0,27
+Gun-control,Gun-control,ability,[nsubj  dobj  advcl  cc  conj],hinders,0,0,27
+government,crewman,0,[nsubjpass  auxpass  nmod],captured,0,0,27
+government,government,responsibility,[cc  nsubj  dobj  advcl],escaped,0,0,27
+wealth,0,0,[nmod],lot,0,0,27
+democracy,Such,0,[nsubj  cop  det  amod  nmod  advcl],trap,Such,trap,27
+gun rights,0,restraint,[mark  dobj  nmod],put,0,0,27
+democracy,Such,0,[nsubj  cop  det  amod  nmod  advcl],trap,0,0,27
+taxation,taxation,0,[nsubj  cop  nmod],subject,to,penalty,27
+poverty,prison,0,[nsubj  det  cop  det  nmod],prison,0,0,27
+gun rights,0,right,[dobj],restrict,0,0,27
+red tape,0,0,[case  det  nmod],bondage,of,tape,27
+inequalities,0,inequality,[dobj  nmod],capture,in,achievement,27
+poverty,0,0,[case  compound],unaided,0,0,27
+gun,0,0,[det  compound],restriction,0,0,27
+guns,0,gun,[mark  dobj],restricting,0,0,27
+poverty,0,0,[case  case  nmod:poss  nmod],jail,0,0,27
+gun rights,right,0,[nsubj  advcl],Sounds,0,0,27
+poverty,poverty,0,[mark  nsubj],hold,0,0,27
+beggar,0,0,[mark  cop  det],beggar,0,0,27
+poverty,0,0,[case  case  nmod:poss  nmod],jail,of,poverty,27
+wealth,0,0,[nmod  dep],what,of,those,27
+bureaucracies,0,0,[det  nmod],idea,0,0,27
+poverty,0,avenue,[mark  dobj  nmod],open,0,0,27
+poverty,0,avenue,[mark  dobj  nmod],open,from,poverty,27
+poverty,0,0,[det  nmod],prison,0,0,27
+poverty,0,0,[det  nmod],chain,of,poverty,27
+poverty,0,0,[det  nmod],prison,of,poverty,27
+gun rights,0,0,[case  nmod],restraint,of,right,27
+wealth,0,0,[nmod  dep],what,0,0,27
+taxation,0,0,[case  compound  conj  cc  conj],increase,0,0,27
+poverty,0,0,[det  nmod],prison,against,poverty,27
+gun rights,0,right,[mark  neg  dobj],have,0,0,27
+gun rights,0,I,[neg  iobj  dobj],restrict,0,0,27
+wealth,0,0,[nmod],lot,of,wealth,27
+gun rights,they,right,[advcl  aux  nsubj  dobj],have,0,0,27
+bureaucracies,0,0,[det  nmod],idea,that,bureaucracy,27
+gun rights,0,restraint,[mark  dobj  nmod],put,on,right,27
+gun rights,0,0,[case  nmod],restraint,0,0,27
+Government,Government,commitment,[nmod  nsubj  aux  dobj  nmod  nmod],strengthen,below,level,28
+Government,Government,commitment,[nmod  nsubj  aux  dobj  nmod  nmod],strengthen,During,emission,28
+democratic,0,0,[case  amod],stability,democratic,stability,28
+Government,Government,commitment,[nmod  nsubj  aux  dobj  nmod  nmod],strengthen,0,0,28
+local government,0,0,[amod  compound],strengthening,local,strengthening,28
+democracy,0,0,[compound  compound  compound  compound  conj  cc  conj],infrastructure,0,0,28
+governments,government,0,[nsubj  aux  neg  xcomp],like,0,0,28
+gun control,Switzerland,control,[mark  nsubj  dep  aux  dobj  advcl],MUCH,0,0,28
+democracy,0,democracy,[dobj],strengthening,0,0,28
+democratic,0,0,[case  amod],stability,0,0,28
+gun control,that,control,[nsubj  dobj],have,0,0,28
+local government,0,0,[amod  compound],strengthening,0,0,28
+Government,Government,commitment,[nmod  nsubj  aux  dobj  nmod  nmod],strengthen,to,nine,28
+income,0,0,[det  amod  nmod  case  nmod:poss  amod  amod  compound  nmod],benefit,of,%,29
+income,0,0,[det  amod  nmod  case  nmod:poss  amod  amod  compound  nmod],benefit,Monthly,benefit,29
+income,0,0,[det  amod  nmod  case  nmod:poss  amod  amod  compound  nmod],benefit,0,0,29
+income,0,0,[det  amod  nmod  case  nmod:poss  amod  amod  compound  nmod],benefit,for,day,29
+self-rule,Kiribati,0,[nsubjpass  auxpass  xcomp  nmod],granted,by,UK,29
+taxes,people,tax,[advmod  nsubj  aux  dobj],cutting,0,0,30
+poverty,0,0,[det  nmod  dep  det  nmod],seed,of,poverty,30
+democracy,0,0,[det  amod  compound  nmod],nut,like,Gravel,30
+bureaucratic,0,0,[det  amod  acl:relcl],pruning,bureaucratic,pruning,30
+Poverty,0,0,[det  nmod  dep  nmod  acl  nmod],Roots,with,comment,30
+democracy,0,0,[det  amod  compound  nmod],nut,0,0,30
+taxes,that,tax,[nsubj  dobj],raise,0,0,30
+red tape,0,0,[nmod  nmod],designed,to,weed,30
+poverty,poverty,0,[nsubj  ccomp],took,0,0,30
+wealth,saving,0,[nsubj  cop  det  nmod],root,0,0,30
+government,Liberals,government,[nsubj  aux  dobj  nmod],growing,on,back,30
+Poverty,0,0,[det  nmod  dep  nmod  acl  nmod],Roots,of,Oppression,30
+Poverty,0,0,[det  nmod  dep  nmod  acl  nmod],Roots,of,Poverty,30
+VAT,0,0,[det  amod  compound  cc  conj],cut,sudden,cut,30
+poverty,0,0,[det  nmod  dep  det  nmod],seed,of,View,30
+established,0,0,[compound  compound  parataxis],Bank,0,0,30
+government,0,0,[case  det  nummod  nmod],branch,0,0,30
+bureaucratic,0,0,[det  amod  acl:relcl],pruning,0,0,30
+wealth,saving,0,[nsubj  cop  det  nmod],root,of,wealth,30
+government,Liberals,government,[nsubj  aux  dobj  nmod],growing,0,0,30
+poverty,0,0,[det  nmod],root,0,0,30
+government,Liberals,government,[nsubj  aux  dobj  nmod],growing,on,back,30
+VAT,0,0,[det  amod  compound  cc  conj],cut,0,0,30
+democracy,0,0,[det  amod  compound  nmod],nut,global,nut,30
+government,0,0,[case  det  nummod  nmod],branch,of,government,30
+poverty,0,0,[det  nmod],root,of,poverty,30
+red tape,0,0,[nmod  nmod],designed,out,tape,30
+gun control,it,0,[nsubj  cop  neg  advmod  det  amod  nmod],reason,good,reason,31
+poverty,0,0,[nmod  cop  det  amod  nmod],backdrop,relentless,backdrop,31
+bureaucracy,bureaucracy,activity,[nsubj  dobj],obstructs,0,0,31
+tariffs,0,tariff,[dobj  advcl],Erecting,0,0,31
+poverty,0,0,[nmod  cop  det  amod  nmod],backdrop,of,poverty,31
+gun control,it,0,[nsubj  cop  neg  advmod  det  amod  nmod],reason,0,0,31
+electoral college,college,purpose,[mark  nmod  nsubj  dobj],obstructs,in,democracy,31
+poverty,0,0,[nmod  cop  det  amod  nmod],backdrop,Behind,detail,31
+poverty,0,0,[nmod  cop  det  amod  nmod],backdrop,0,0,31
+gun control,it,0,[nsubj  cop  neg  advmod  det  amod  nmod],reason,to,control,31
+electoral college,college,purpose,[mark  nmod  nsubj  dobj],obstructs,0,0,31
+election,election,view,[nsubj  dobj],crushed,0,0,32
+election campaign,0,0,[case  det  nmod],mayhem,0,0,32
+taxpayers,0,0,[case  det  nmod],clutch,of,taxpayer,32
+guns,gun,0,[mark  advcl  advmod  nsubj  cop  advmod  advmod  advmod],safe,0,0,32
+Senator,0,0,[compound  acl],Cruz,0,0,32
+poverty,0,0,[case  det  nmod],monster,of,poverty,32
+poverty,0,0,[case  det  nmod],monster,0,0,32
+taxpayers,0,0,[case  det  nmod],clutch,0,0,32
+democracy,0,0,[case  det  nmod],clutch,0,0,32
+Poverty,0,Poverty,[dobj],Read,0,0,32
+election campaign,0,0,[case  det  nmod],mayhem,of,campaign,32
+democracy,0,0,[case  det  nmod],clutch,of,democracy,32
+election,0,0,[det  nmod],specter,of,election,32
+election,0,0,[det  nmod],specter,0,0,32
+general-election,0,0,[amod],havoc,0,0,32
+Democracy,0,0,[compound  amod  nmod],Goddess,0,0,33
+taxation,0,0,[compound  cc  conj],regulation,0,0,33
+democracy,0,0,[det  nmod],demigod,of,democracy,33
+guns,0,gun,[mark  dobj  advmod],glorifying,0,0,33
+wealth,0,0,[compound  cc  conj],lust,0,0,33
+democratic government,government,expertise,[nsubj  dobj  advcl],value,0,0,33
+gun,0,0,[det  compound  cc  conj],cult,0,0,33
+gun,0,0,[det  amod  compound],zealot,0,0,33
+democracy,we,0,[mark  nsubj  nmod  ccomp],understand,0,0,33
+gun,0,0,[case  nmod:poss  amod  compound],worshipper,fellow,worshipper,33
+wealth,0,0,[compound  cc  conj],lust,false,lust,33
+gun,people,gun,[case  mark  advmod  nsubj  dobj  advcl],idolize,0,0,33
+government,0,0,[neg  amod  dep],blueprint,0,0,33
+democracy,0,0,[det  nmod],demigod,0,0,33
+wealth,0,0,[case  det  amod  nmod],idol,personal,idol,33
+wealth,0,0,[case  det  amod  nmod],idol,0,0,33
+democracy,we,0,[mark  nsubj  nmod  ccomp],understand,a,democracy,33
+gun,0,0,[det  amod  compound],believer,anti,believer,33
+democracy,0,0,[case  nmod:poss  compound],religion,0,0,33
+bureaucracy,0,bureaucracy,[mark  dobj],propitiate,0,0,33
+government,0,government,[mark  dobj],baptize,0,0,33
+gun,0,0,[det  amod  compound],zealot,anti,zealot,33
+gun,0,0,[det  amod  compound],believer,0,0,33
+Democracy,0,0,[compound  amod  nmod],Goddess,Thought,Goddess,33
+Democracy,0,0,[compound  amod  nmod],Goddess,of,Democracy,33
+gun,you,gun,[mark  nsubj  dobj  cc  conj],idolize,0,0,33
+gun,0,0,[case  nmod:poss  amod  compound],worshipper,0,0,33
+government,government,u,[nmod  nsubj  dobj  nmod  cc  conj],snow,many,snow,34
+bureaucratic,0,0,[det  amod  amod  acl],thunder,bureaucratic,thunder,34
+government,government,u,[nmod  nsubj  dobj  nmod  cc  conj],snow,like,rate,34
+Government policy,0,0,[mark  nmod],do,0,0,34
+bureaucratic,0,0,[det  amod  amod  acl],thunder,0,0,34
+democracy,0,0,[neg  amod  nmod  nmod],barometer,0,0,34
+election,0,0,[case  det  nmod],barometer,0,0,34
+government,government,u,[nmod  nsubj  dobj  nmod  cc  conj],snow,with,many,34
+government,government,u,[nmod  nsubj  dobj  nmod  cc  conj],snow,0,0,34
+election,0,0,[case  det  nmod],barometer,of,election,34
+government,government,u,[nmod  nsubj  dobj  nmod  cc  conj],snow,Unlike,many,34
+democracy,0,0,[neg  amod  nmod  nmod],barometer,of,democracy,34
+city hall,0,0,[case  det  nmod],barometer,0,0,34
+democracy,0,0,[neg  amod  nmod  nmod],barometer,of,press,34
+democracy,0,0,[neg  amod  nmod  nmod],barometer,greater,barometer,34
+city hall,0,0,[case  det  nmod],barometer,of,hall,34
+regimes,0,0,[det  amod  nmod  dep],fraction,large,fraction,35
+Poverty,0,0,[det  nmod],Crime,0,0,35
+government,0,0,[case  det  nmod],pimp,0,0,35
+taxpayers,pawn,taxpayer,[mark  nsubj  mark  dobj  advcl],blackmail,0,0,35
+Democracy,Democracy,0,[nsubjpass  auxpass  advcl],blamed,0,0,35
+taxpayers,which,taxpayer,[nsubj  dobj  advmod],victimizes,0,0,35
+regimes,0,0,[det  amod  nmod  dep],fraction,of,regime,35
+poverty,poverty,failure,[nsubj  dobj],punishes,0,0,35
+tax collection,THEY,0,[nsubj  cop  nmod],responsible,for,collection,35
+tax collection,THEY,0,[nsubj  cop  nmod],responsible,of,collection,35
+Tax,0,0,[case  det  compound],Pimp,0,0,35
+Poverty,0,0,[det  nmod],Crime,of,Poverty,35
+democracy,0,0,[appos],speaking,0,0,35
+legalized,I,0,[nsubj  ccomp],call,0,0,35
+Taxes,Taxes,power,[nsubj  dobj  cc  conj],steal,0,0,35
+The rich,rich,0,[nsubj  cop  amod  nmod],criminal,rich,criminal,35
+gun,0,0,[case  amod  compound],arrest,mistaken,arrest,35
+poverty,0,0,[det  nmod],punishment,of,poverty,35
+government,0,0,[case  det  nmod],pimp,of,government,35
+democracy,crime,democracy,[advmod  nsubj  dobj],victimize,0,0,35
+democracy,democracy,0,[nsubj  nmod],perpetrates,upon,people,35
+The rich,rich,0,[nsubj  cop  amod  nmod],criminal,of,nationality,35
+voters,voter,party,[mark  nsubj  dobj  nmod  cc  conj],decapitated,on,day,35
+voters,voter,party,[mark  nsubj  dobj  nmod  cc  conj],decapitated,0,0,35
+poverty,0,poverty,[mark  dobj],depicting,0,0,35
+democracy,democracy,0,[nsubj  nmod],perpetrates,0,0,35
+tax,0,0,[det  compound],gestapo,0,0,35
+regimes,0,0,[det  amod  nmod  dep],fraction,0,0,35
+tax collection,THEY,0,[nsubj  cop  nmod],responsible,0,0,35
+The rich,rich,0,[nsubj  cop  amod  nmod],criminal,0,0,35
+democracy,0,0,[case  det  appos],Bible,0,0,35
+poverty,0,0,[det  nmod],punishment,0,0,35
+gun control,0,0,[nmod],Victims,0,0,35
+gun control,Manchin,0,[nsubj  cop  det  compound  compound  acl],pimp,0,0,35
+government,0,0,[nmod:poss  nmod],grip,'s,government,36
+wealth,0,wealth,[dobj  nmod],investing,0,0,36
+court,court,hearing,[nsubj  aux  dobj  nmod],hold,by,telephone,36
+government,0,0,[nmod:poss  nmod],grip,on,people,36
+court,provision,0,[mark  nsubjpass  auxpass  nmod  xcomp],held,by,court,36
+governments,it,investigation,[nsubj  dobj  nmod  advcl],provoked,into,government,36
+court,court,hearing,[nsubj  aux  dobj  nmod],hold,0,0,36
+gun,0,0,[neg  nummod],gun,0,0,36
+court,0,0,[nmod:poss],holding,'s,court,36
+court,provision,0,[mark  nsubjpass  auxpass  nmod  xcomp],held,0,0,36
+wealth,0,wealth,[dobj  nmod],investing,in,capital,36
+law,who,law,[nsubj  cc  conj  dobj],make,0,0,36
+law,Court,law,[nmod  nsubj  dobj],held,0,0,36
+court,0,0,[nmod:poss],holding,0,0,36
+government,0,0,[nmod:poss  nmod],grip,0,0,36
+governments,it,investigation,[nsubj  dobj  nmod  advcl],provoked,0,0,36
+law,Court,law,[nmod  nsubj  dobj],held,in,which,36
+platforms,0,0,[case  det  nmod],hood,0,0,37
+bureaucracy,0,bureaucracy,[mark  dobj  nmod],push,into,age,37
+democracy,0,0,[case  det  nmod  advmod],armor,0,0,37
+democracy,0,0,[advmod  case  det  compound  nmod],glove,0,0,37
+establish,PUC,proposal,[nsubj  dobj  advcl],issue,0,0,37
+government regulation,0,0,[case  det  nmod],brassiere,of,regulation,37
+democracy,0,0,[case  det  nmod],belt,0,0,37
+legislation,0,legislation,[mark  dobj  xcomp],unveil,0,0,37
+government,0,0,[det  nmod],belt,of,government,37
+Poverty,0,0,[case  det  nmod],Pocket,0,0,37
+government,0,0,[case  det  nmod],underwear,0,0,37
+bureaucracy,0,bureaucracy,[mark  dobj  nmod],push,0,0,37
+democracy,0,0,[case  det  nmod  advmod],armor,of,democracy,37
+democracy,USA,democracy,[nsubj  dobj  nmod],wear,0,0,37
+government,0,0,[case  det  nmod],skirt,of,government,37
+government,0,0,[det  nmod],belt,0,0,37
+democracy,0,0,[case  det  nmod],belt,of,democracy,37
+democracy,0,0,[advmod  case  det  compound  nmod],glove,of,democracy,37
+democracy,democracy,0,[nsubj  nmod],imposed,0,0,37
+democracy,democracy,0,[nsubj  nmod],imposed,upon,them,37
+administrate,0,ring,[advcl  csubj  aux  neg  dobj],administrate,0,0,37
+gun rights,0,right,[dobj],stripping,0,0,37
+bureaucracy,0,0,[case  det  nmod],hat,of,bureaucracy,37
+guns,0,gun,[mark  dobj  nmod],provide,to,interest,37
+government,0,0,[case  det  nmod],skirt,0,0,37
+government,0,0,[case  det  nmod],underwear,of,government,37
+Poverty,0,0,[case  det  nmod],Pocket,of,Poverty,37
+bureaucracy,0,bureaucracy,[mark  dobj],reconfigure,0,0,37
+government regulation,0,0,[case  det  nmod],brassiere,0,0,37
+platforms,0,0,[case  det  nmod],hood,of,platform,37
+gun rights,0,right,[mark  dobj],hang,0,0,37
+Democracy,0,0,[compound  compound  compound],Islamists,0,0,37
+tariff,0,0,[case  compound  acl],cut,0,0,38
+poverty,poverty,0,[nsubj  cop  det  amod  cc  conj],problem,challenging,problem,38
+voting,0,0,[amod  amod],tool,0,0,38
+tax,0,0,[case  nmod:poss  amod],prowess,tax-cutting,prowess,38
+poverty,poverty,0,[nsubj  cop  det  amod  cc  conj],problem,0,0,38
+government agencies,0,0,[det  cc  conj],regulator,0,0,38
+money,0,0,[case  amod  compound  acl:relcl],measure,comparative,measure,39
+taxes,0,tax,[mark  dobj],avoid,0,0,39
+poverty,0,0,[case  compound  nmod],comparison,between,group,39
+governance,0,0,[case  det  amod  nmod],dimension,of,governance,39
+poverty,0,0,[case  compound  nmod],comparison,0,0,39
+money,0,0,[case  amod  compound  acl:relcl],measure,0,0,39
+gun control,0,0,[amod  nmod],form,of,control,40
+poverty,0,0,[det  amod  amod  nmod],form,harmful,form,40
+legislation,rule,legislation,[advmod  aux  nsubj  dobj],shape,0,0,40
+law,0,law,[mark  dobj  nmod],shape,through,initiative,40
+gun control,0,0,[amod  nmod],form,most,form,40
+government,LANC,government,[nsubj  dobj  cc  conj],form,0,0,40
+taxation,it,0,[nmod  nsubj  cop  det  amod  compound  acl:relcl],taxation,On,occasion,40
+poverty,0,0,[det  amod  amod  nmod],form,of,poverty,40
+taxation,it,0,[nmod  nsubj  cop  det  amod  compound  acl:relcl],taxation,0,0,40
+government,Left,government,[nmod  nsubj  dobj],form,0,0,40
+governments,government,0,[mark  nsubjpass  auxpass  xcomp],formed,0,0,40
+governments,0,government,[case  dobj],forming,0,0,40
+gun control,0,0,[amod  nmod],form,0,0,40
+law,0,law,[mark  dobj  nmod],shape,0,0,40
+legislation,0,0,[case  det  nmod],form,of,legislation,40
+poverty,0,0,[det  amod  amod  nmod],form,many,form,40
+poverty,0,0,[det  amod  amod  nmod],form,0,0,40
+poverty,country,0,[nmod  nsubjpass  auxpass  nmod  conj  cc  conj],knotted,Before,moi,41
+poverty,0,way,[mark  dobj  compound:prt  nmod],work,0,0,41
+poverty,Geldof,way,[advcl  nsubj  aux  dobj  compound:prt  nmod],find,of,poverty,41
+poverty,poverty,people,[nsubj  dobj],entangles,0,0,41
+poverty,movement,0,[nmod  nsubj  cop  det  nmod],navigation,of,poverty,41
+poverty,country,0,[nmod  nsubjpass  auxpass  nmod  conj  cc  conj],knotted,0,0,41
+poverty,We,way,[nsubj  aux  neg  dobj  compound:prt  nmod],grow,0,0,41
+bureaucratic,0,0,[det  amod  nmod],maze,0,0,41
+taxes,tax,0,[advmod  nsubj  nmod],intertwine,0,0,41
+poverty,0,way,[mark  dobj  compound:prt  nmod],work,of,poverty,41
+democracy,I,way,[nsubj  aux  neg  dobj  compound:prt  nmod],see,of,democracy,41
+taxes,tax,0,[advmod  nsubj  nmod],intertwine,with,regulation,41
+poverty,Geldof,way,[advcl  nsubj  aux  dobj  compound:prt  nmod],find,0,0,41
+bureaucratic,0,0,[det  amod  nmod],maze,of,requirement,41
+election,I,0,[nmod:tmod  nsubj  cop  advmod  advmod  det  dep  acl],election,0,0,41
+democracy,democracy,0,[mark  nsubj  nmod  cc  conj],rest,0,0,41
+democracy,0,0,[case  det  nmod],maze,of,democracy,41
+democracy,democracy,0,[mark  nsubj  nmod  cc  conj],rest,upon,fact,41
+poverty,We,way,[nsubj  aux  neg  dobj  compound:prt  nmod],grow,of,poverty,41
+bureaucratic,0,0,[det  amod  nmod],maze,bureaucratic,maze,41
+democracy,I,way,[nsubj  aux  neg  dobj  compound:prt  nmod],see,0,0,41
+poverty,country,0,[nmod  nsubjpass  auxpass  nmod  conj  cc  conj],knotted,by,poverty,41
+bureaucratic,0,0,[det  amod  nmod],maze,to,requirement,41
+democracy,0,0,[case  det  nmod],maze,0,0,41
+management,0,0,[amod  compound  compound],profit,senior,profit,42
+wealth,they,0,[nmod  nsubj  xcomp  nmod],became,0,0,42
+management,0,0,[amod  compound  compound],profit,0,0,42
+democracy,0,0,[case  det  nmod],field,0,0,42
+Democracy,Democracy,0,[nsubj  nmod],wilt,0,0,42
+democracy,development,ground,[mark  nsubj  aux  dobj  nmod],provide,0,0,42
+voters,0,0,[det  nmod],drought,0,0,42
+elections,0,election,[mark  dobj  advcl],blight,0,0,42
+democratic processes,influence,process,[nsubj  dobj],blight,0,0,42
+democracy,neither,democracy,[nsubj  dobj],doe,0,0,42
+taxation,0,0,[case  det  nmod],blight,0,0,42
+wealth,they,0,[nmod  nsubj  xcomp  nmod],became,in,style,42
+poverty,0,0,[case  det  nmod],growth,of,poverty,42
+democracy,development,ground,[mark  nsubj  aux  dobj  nmod],provide,for,democracy,42
+voters,0,0,[case  det  amod  nmod],number,small,number,42
+Democracy,Democracy,0,[nsubj  nmod],wilt,under,cover,42
+taxation,0,0,[case  det  nmod],blight,of,taxation,42
+voters,0,0,[det  nmod],drought,of,voter,42
+democracy,democracy,0,[advmod  nsubj  ccomp],harvest,0,0,42
+poverty,policy,poverty,[nsubj  dobj],sow,0,0,42
+wealth,they,0,[nmod  nsubj  xcomp  nmod],became,As,wealth,42
+voters,0,0,[case  det  amod  nmod],number,of,voter,42
+poverty,0,0,[case  det  nmod],growth,0,0,42
+democracy,0,0,[case  det  nmod],field,of,democracy,42
+Government,Government,it,[nsubj  dobj],coagulates,0,0,43
+debt,credit/debt,0,[advmod  nsubj  advmod],circulates,0,0,43
+democracy,0,0,[det  nmod],blood,of,democracy,43
+democracy,0,0,[case  det  nmod],artery,of,democracy,43
+democracy,0,0,[case  det  nmod],artery,0,0,43
+tax,0,0,[det  compound],hemorrhage,0,0,43
+Guns,0,0,[case  nmod],Sources,0,0,44
+guns,gun,0,[nsubj  cop  compound  acl],Craig,0,0,44
+poverty,We,conversation,[nsubj  dobj  nmod  nmod],focused,on,poverty,44
+gun controls,0,0,[case  nmod:poss  nmod],lack,0,0,44
+income,income,0,[nsubj],grow,0,0,44
+gun controls,0,0,[case  nmod:poss  nmod],lack,of,control,44
+government,0,0,[amod  compound  nmod],capacity,0,0,44
+national,0,0,[amod],growth,national,growth,44
+freedom,we,freedom,[advmod  nsubj  dobj  nmod],gained,in,1994,44
+freedom,we,freedom,[advmod  nsubj  dobj  nmod],gained,0,0,44
+firearm,0,0,[case  compound],capacity,0,0,44
+the poor,0,0,[case  nmod  cc  conj],development,of,poor,44
+homelessness,0,0,[nmod:npmod  nmod],quite,0,0,44
+elections,event,0,[nsubj  compound:prt  nmod],pan,0,0,44
+poverty,We,conversation,[nsubj  dobj  nmod  nmod],focused,on,people,44
+bureaucracy,0,bureaucracy,[mark  dobj  nmod],refine,0,0,44
+government,government,0,[mark  nsubj  aux  nmod],received,0,0,44
+government,government,0,[mark  nsubj  aux  nmod],received,from,party,44
+debt,Empire,debt,[nmod  nsubj  aux  advmod  aux  dobj  dep],amassed,0,0,44
+democracy,0,0,[case  det  amod  nmod],gift,of,democracy,44
+Constitution,he,Constitution,[nsubj  aux  dobj  nmod],consign,to,heap,44
+majority rule,system,0,[nsubjpass  auxpass  neg  nmod],based,on,rule,44
+poverty,We,conversation,[nsubj  dobj  nmod  nmod],focused,0,0,44
+debt,Empire,debt,[nmod  nsubj  aux  advmod  aux  dobj  dep],amassed,In,case,44
+democracy,0,0,[det  nmod  acl:relcl],expansion,of,democracy,44
+wealth,wealth,0,[nsubjpass  auxpass  nmod],pinched,0,0,44
+public services,0,0,[case  det  nmod],supply,0,0,44
+taxation,task,0,[ccomp  nsubj  cop  nmod],form,0,0,44
+democracy,0,0,[det  nmod],substance,of,democracy,44
+taxation,task,0,[ccomp  nsubj  cop  nmod],form,of,taxation,44
+managing,0,volume,[mark  cc  conj  dobj],vaulting,0,0,44
+wealth,wealth,0,[nsubjpass  auxpass  nmod],pinched,with,poverty,44
+the poor,0,0,[case  nmod  cc  conj],development,0,0,44
+gun control,0,0,[nmod],Lots,0,0,44
+government,0,0,[det  nmod],size,0,0,44
+primaries,0,0,[case  det  nmod],series,of,primary,44
+democracy,0,0,[case  det  amod  nmod],gift,greatest,gift,44
+democracy,0,0,[case  det  amod  nmod],gift,0,0,44
+wealth,0,wealth,[mark  dobj],dispersing,0,0,44
+majority rule,system,0,[nsubjpass  auxpass  neg  nmod],based,0,0,44
+democracy,0,democracy,[mark  dobj  nmod],transfer,throughout,East,44
+government,0,0,[amod  compound  nmod],capacity,for,decisionmaking,44
+government,0,government,[mark  dobj  nmod],dilute,into,nothingness,44
+Guns,0,0,[case  nmod],Sources,of,Guns,44
+government,0,0,[amod  compound  nmod],capacity,regulatory,capacity,44
+government,0,government,[mark  dobj  nmod],dilute,0,0,44
+elections,event,0,[nsubj  compound:prt  nmod],pan,after,election,44
+bureaucracy,0,0,[det  amod  nmod],exploitation,of,bureaucracy,44
+wealth,who,wealth,[nsubj  aux  dobj  advcl],spreading,0,0,44
+bureaucracy,0,0,[det  amod  nmod],exploitation,feminist,exploitation,44
+bureaucracy,0,0,[det  amod  nmod],exploitation,0,0,44
+bureaucracy,0,bureaucracy,[mark  dobj  nmod],refine,national,refine,44
+democracy,0,0,[det  nmod],substance,0,0,44
+gun control,0,0,[nmod],Lots,of,control,44
+democracy,0,democracy,[mark  dobj  nmod],transfer,0,0,44
+taxes,tax,0,[mark  nsubj  neg],is,0,0,44
+income tax,0,0,[det  nmod],proportion,0,0,44
+income tax,0,0,[det  nmod],proportion,of,tax,44
+poverty,percent,0,[advcl  nmod  nsubj  aux  nmod],live,in,poverty,45
+poverty,person,leader,[nsubj  nmod  dep  dobj],emerge,0,0,45
+poverty,person,leader,[nsubj  nmod  dep  dobj],emerge,from,poverty,45
+poverty,who,0,[nsubj  nmod  nmod],live,in,poverty,45
+poverty,who,0,[nsubj  nmod  nmod],live,in,shard,45
+poverty,people,0,[mark  advmod  nsubjpass  aux  aux  auxpass  nmod  nmod],pushed,into,poverty,45
+democracy,China,path,[mark  advcl  nsubj  aux  advmod  dobj  nmod],follow,to,democracy,45
+poverty,people,0,[nmod  nsubj  nmod],live,In,Australia,45
+poverty,people,0,[nmod  nsubj  nmod],live,in,poverty,45
+poverty,others,0,[mark  nsubj  mark  nmod  dep  dep  dep  dep],live,in,poverty,45
+democracy,0,0,[case  det  amod  nmod],departure,0,0,45
+Constitution,0,0,[det  nmod],departure,from,Constitution,45
+poverty,Australians,0,[nsubj  nmod  parataxis  parataxis],live,likely,live,45
+wealth,0,0,[case  det  amod  nmod],region,high-flying,region,45
+vote,0,vote,[mark  dobj  nmod],gather,after,vote,45
+poverty,Australians,0,[nsubj  nmod  parataxis  parataxis],live,0,0,45
+poverty,0,0,[mark  nmod  cc  conj],live,in,poverty,45
+poverty,people,0,[nmod  nsubj  nmod],live,0,0,45
+Governments,0,0,[case  nmod:poss  amod  nmod],removal,of,portion,45
+Governments,0,0,[case  nmod:poss  amod  nmod],removal,Governments,removal,45
+poverty,who,0,[nsubj  nmod],live,in,poverty,45
+wealth,who,0,[nsubjpass  auxpass  nmod],born,into,wealth,45
+poverty,Americans,poverty,[advcl  nsubj  dobj  advcl],inhabit,0,0,45
+poverty,0,0,[mark  nmod],live,0,0,45
+poverty,0,0,[mark  nmod],live,in,poverty,45
+vote,0,vote,[mark  dobj  nmod],gather,0,0,45
+Constitution,0,0,[det  nmod],departure,0,0,45
+wealth,0,0,[case  det  amod  nmod],region,of,wealth,45
+regulations,0,regulation,[mark  dobj  nmod  advcl],place,on,ability,45
+democracy,0,0,[case  det  amod  nmod],departure,of,democracy,45
+poverty,percent,0,[nsubj  nmod  nmod],live,in,jurisdiction,45
+poverty,percent,0,[advcl  nmod  nsubj  aux  nmod],live,0,0,45
+right,Subcontinent,right,[advmod  nsubj  dobj  nmod  cc  conj],retains,0,0,45
+Gun Control,I,0,[nsubj  advmod  neg  nmod  cc  conj],stray,into,Control,45
+Gun Control,I,0,[nsubj  advmod  neg  nmod  cc  conj],stray,0,0,45
+poverty,percent,0,[nsubj  nmod  nmod],live,0,0,45
+poverty,others,0,[mark  nsubj  mark  nmod  dep  dep  dep  dep],live,0,0,45
+democracy,0,0,[case  det  nmod  cc  conj  case  det  nmod],realm,of,anarchy,45
+tax,0,0,[neg  advmod  case  det  compound],world,0,0,45
+poverty,you,0,[advcl  advmod  nsubj  nmod  nsubj  nmod],live,in,poverty,45
+poverty,percent,0,[nsubj  nmod],live,in,poverty,45
+Governments,0,0,[case  nmod:poss  amod  nmod],removal,0,0,45
+poverty,who,0,[nsubj  nmod  nmod],live,0,0,45
+democracy,China,path,[mark  advcl  nsubj  aux  advmod  dobj  nmod],follow,open,follow,45
+poverty,million,0,[advmod  nsubj  nmod],live,in,poverty,45
+poverty,0,0,[mark  nmod],live,0,0,45
+poverty,you,0,[advcl  advmod  nsubj  nmod  nsubj  nmod],live,0,0,45
+poverty,million,0,[advmod  nsubj  nmod],live,0,0,45
+poverty,who,0,[nsubj  nmod],live,0,0,45
+poverty,Australians,0,[nsubj  nmod  parataxis  parataxis],live,in,poverty,45
+gun,0,0,[neg  compound],zone,0,0,45
+democracy,0,0,[case  det  nmod  cc  conj  case  det  nmod],realm,0,0,45
+vote,0,vote,[mark  dobj  nmod],gather,of,vote,45
+wealth,0,0,[case  det  amod  nmod],region,0,0,45
+poverty,0,people,[compound:prt  dobj  nmod  advcl],pushing,0,0,45
+democracy,China,path,[mark  advcl  nsubj  aux  advmod  dobj  nmod],follow,0,0,45
+poverty,people,0,[mark  advmod  nsubjpass  aux  aux  auxpass  nmod  nmod],pushed,a,result,45
+poverty,0,0,[nmod],Born,0,0,45
+regulations,0,regulation,[mark  dobj  nmod  advcl],place,0,0,45
+poverty,0,people,[compound:prt  dobj  nmod  advcl],pushing,into,poverty,45
+poverty,people,0,[mark  advmod  nsubjpass  aux  aux  auxpass  nmod  nmod],pushed,0,0,45
+poverty,attainment,status,[nsubj  cop  advmod  advmod  nmod  dobj  xcomp],live,in,poverty,45
+Tax,Tax,0,[mark  nsubj  advcl],work,0,0,46
+Democracy,0,0,[case  det  nmod],engine,0,0,46
+wealth,that,wealth,[nsubj  dobj],produce,0,0,46
+wealth,0,0,[det  compound],gauge,0,0,46
+election,0,0,[case  det  nmod],mechanism,0,0,46
+government,0,0,[det  amod  nmod],apparatus,entire,apparatus,46
+regulations,0,0,[nmod],provision,0,0,46
+policy,0,policy,[mark  dobj],tighten,0,0,46
+gun control,control,0,[mark  nsubj  ccomp  nsubj],work,0,0,46
+regulations,0,0,[nmod],provision,of,regulation,46
+government,0,0,[det  amod  nmod],apparatus,of,government,46
+congressman,congressman,skid,[mark  nsubj  dobj],grease,0,0,46
+taxation,tax,0,[nsubj  cop  det  amod  amod  nmod],lever,central,lever,46
+red tape,0,0,[mark  advmod  cop  det  amod  compound  cc  conj],machine,red,machine,46
+constitutional,0,0,[case  det  amod],lubricant,constitutional,lubricant,46
+democracy,0,0,[compound],work,0,0,46
+tax,0,0,[case  det  amod  compound  nmod],generator,largest,generator,46
+tax,0,0,[case  det  amod  compound  nmod],generator,in,county,46
+tax,0,0,[case  det  amod  compound  nmod],generator,0,0,46
+Taxes,Taxes,0,[nsubj  cop  det  acl:relcl],lubricant,0,0,46
+constitutional,0,0,[case  det  amod],lubricant,0,0,46
+gun,0,0,[det  acl:relcl  det  nummod  compound  cc  conj  det  nummod  compound],limit,0,0,46
+progressive tax,0,0,[csubj  cop  det  amod  compound  acl:relcl],system,0,0,46
+fire departments,0,0,[det  nmod],operation,of,department,46
+fire departments,0,0,[det  nmod],operation,0,0,46
+gun control,control,0,[mark  nsubj  advcl],worked,0,0,46
+election,0,0,[case  det  nmod],mechanism,of,election,46
+tariffs,tariff,0,[mark  nsubjpass  aux  auxpass  xcomp],adjusted,0,0,46
+poverty,0,0,[cc  conj  acl:relcl],tool,0,0,46
+free elections,0,0,[det  nmod],vehicle,of,election,46
+taxation,tax,0,[nsubj  cop  det  amod  amod  nmod],lever,0,0,46
+government,0,government,[mark  mark  dobj  advcl],repair,0,0,46
+Democracy,0,0,[case  det  nmod],engine,of,Democracy,46
+government,0,0,[det  amod  nmod],apparatus,0,0,46
+bureaucracy,0,0,[amod  nmod  nmod],the,of,bureaucracy,46
+bureaucracy,0,0,[amod  nmod  nmod],the,0,0,46
+gun,authority,0,[nsubj  cop  det],gun,0,0,47
+taxes,tax,0,[nsubj],bit,0,0,47
+gun,gun,0,[mark  nsubj  cop  neg  appos  cc  conj],toy,0,0,47
+gun controls,remark,0,[advmod  nsubj  aux  neg  ccomp],change,0,0,47
+elections,0,0,[advmod  advmod  det  nmod],introduction,0,0,47
+wealth,0,0,[case  det  nmod],uncertainty,of,wealth,47
+income tax,0,tax,[dobj  dep],have,0,0,47
+gun control,0,0,[amod  compound  compound],nutter,most,nutter,47
+Income,0,0,[det  compound],Gap,0,0,47
+wealthy,0,0,[mark  advmod  nmod],increase,wealthy,increase,47
+corporate tax,0,0,[case  nmod],level,of,tax,47
+democracy,0,0,[case  det  nmod],origin,of,democracy,47
+elections,Journal,election,[nsubj  dobj  advcl],ass,0,0,47
+voters,0,0,[case  compound  nmod],courtship,0,0,47
+governments,0,0,[case  det  nmod],form,0,0,47
+firearms,firearm,0,[mark  nsubj  cop  advmod],teddy,0,0,47
+gun control,0,0,[compound  compound],work,0,0,47
+governments,0,0,[case  det  nmod],form,of,government,47
+Taxes,0,0,[det  nmod],Impact,0,0,47
+wealth,0,0,[case  det  nmod],uncertainty,0,0,47
+gun controls,you,control,[nsubj  dobj],support,0,0,47
+wealth,people,wealth,[advmod  nsubj  dobj],have,0,0,47
+voters,0,0,[case  det  nmod],infusion,0,0,47
+tariff,0,0,[case  det  amod  compound  dep],standard,current,standard,47
+tariff,0,0,[case  det  amod  compound  dep],standard,0,0,47
+democracy,0,0,[advcl  parataxis  auxpass  nmod],protected,under,democracy,47
+elections,0,0,[advmod  advmod  det  nmod],introduction,of,election,47
+poverty,0,0,[case  nmod],background,0,0,47
+Democracy,0,0,[compound  dep],Bonds,0,0,47
+corporate tax,0,0,[case  nmod],level,0,0,47
+gun control,0,0,[amod  compound  compound],nutter,0,0,47
+government,0,0,[det  nmod],size,0,0,47
+gun control,control,0,[nsubj],work,0,0,47
+democracy,0,0,[advcl  parataxis  auxpass  nmod],protected,0,0,47
+gun control,control,0,[mark  nsubj  ccomp],claimed,0,0,47
+democracy,0,democracy,[mark  dobj  nmod],understanding,0,0,47
+gun control,0,0,[case  det  nmod],world,0,0,47
+gun control,0,0,[case  det  nmod],world,of,control,47
+government,0,0,[det  nmod],furniture,of,government,47
+Gun control,control,0,[nsubj  cop  advcl],endless,0,0,47
+democracy,0,0,[case  nmod],belief,0,0,47
+democracy,0,0,[case  amod  dep],nation,0,0,47
+voters,0,0,[case  compound  nmod],courtship,of,voter,47
+gun control,control,0,[mark  nsubj  ccomp],belief,safe,belief,47
+Income,0,0,[compound  compound],Gap,0,0,47
+poverty,who,0,[nsubjpass  auxpass  nmod  xcomp],forced,by,poverty,47
+bureaucracy,0,bureaucracy,[mark  dobj  ccomp],simplify,0,0,47
+representative government,0,0,[nmod  conj  nmod  cc  conj  nmod  appos],loss,of,Amendment,47
+guns,0,account,[dobj  nmod],doe,for,gun,47
+democracy,it,democracy,[nsubj  dep  mark  dobj],achieve,challenging,achieve,47
+guns,0,account,[dobj  nmod],doe,0,0,47
+voters,0,0,[case  det  nmod],infusion,of,voter,47
+wealthy,0,0,[mark  advmod  nmod],increase,0,0,47
+gun control,0,0,[compound  compound],garbage,0,0,47
+democracy,0,0,[case  amod  dep],nation,European,nation,47
+tax,0,0,[case  det  advmod  amod  compound  dep],system,0,0,47
+governments,government,0,[mark  nsubj  aux  nmod],put,0,0,47
+guns,ploy,gun,[nsubj  cop  mark  dobj  advcl],reading,0,0,47
+gun control,control,0,[mark  nsubj  ccomp],belief,0,0,47
+Taxes,0,0,[det  nmod],Impact,of,Taxes,47
+gun control,control,0,[nsubj  ccomp],know,0,0,47
+democracy,0,0,[case  det  nmod],origin,0,0,47
+poverty,poverty,million,[mark  nsubj  dobj],deprives,0,0,47
+government,0,0,[nmod],charge,'s,government,47
+government,0,0,[nmod],charge,0,0,47
+wealthy,0,0,[mark  advmod  nmod],increase,with,wealthy,47
+gun control,0,0,[compound  compound  acl:relcl],pound,0,0,47
+poverty,who,0,[nsubjpass  auxpass  nmod  xcomp],forced,0,0,47
+democracy,0,0,[case  nmod],belief,in,pseudo-democracy,47
+government,0,0,[case  det  nmod  dep],facet,0,0,47
+poverty,0,0,[det  amod  compound  acl:relcl],Enlightenment,0,0,48
+administrators,administrator,fact,[nsubj  dobj  ccomp],overshadow,0,0,48
+government,0,0,[det  nmod],twilight,0,0,48
+government,themselves,0,[nsubj  nmod],persecuted,by,government,48
+government,0,0,[case  det  compound],gloom,0,0,48
+election,0,0,[det  nmod],shadow,over,election,48
+government,0,0,[det  nmod],twilight,of,government,48
+poverty,0,0,[nmod],groping,0,0,48
+government,themselves,0,[nsubj  nmod],persecuted,0,0,48
+tax collections,-RSB-,collection,[dobj  nsubj],Tennessees,0,0,48
+poverty,0,0,[det  amod  compound  acl:relcl],Enlightenment,first,Enlightenment,48
+tax gap,0,gap,[dobj],close,0,0,49
+Democracy,Democracy,0,[nsubj  cop  det  amod  nmod],door,open,door,49
+tax,0,0,[compound],hell,0,0,49
+bureaucratic,0,0,[case  det  amod  acl:relcl],turnstile,0,0,49
+poverty,0,0,[det  nmod],obstacle,0,0,49
+poverty,0,0,[det  nmod],obstacle,of,poverty,49
+government,0,0,[det  amod  compound  nmod],portal,new,portal,49
+government,0,0,[det  amod  compound  nmod],portal,of,government,49
+bureaucratic,0,0,[case  det  amod  acl:relcl],turnstile,bureaucratic,turnstile,49
+poverty,poverty,men,[nsubj  dobj  nmod],expose,0,0,49
+government,0,0,[case  det  nmod  cc  conj],gateway,of,government,49
+Democracy,Democracy,0,[nsubj  cop  det  amod  nmod],door,0,0,49
+convention,0,convention,[mark  dobj],enter,0,0,49
+Democracy,Democracy,0,[nsubj  cop  det  amod  nmod],door,of,access,49
+poverty,poverty,men,[nsubj  dobj  nmod],expose,to,evil,49
+poverty,woman,0,[advmod  nsubj  nmod],enter,0,0,49
+government,0,0,[det  amod  compound  nmod],portal,0,0,49
+Senate,Senate,0,[nsubj  cop  det  nmod  cc  conj],portal,0,0,49
+government,0,0,[case  det  nmod  cc  conj],gateway,0,0,49
+vote,0,0,[case  det  amod  nmod],manipulation,of,vote,50
+vote,0,0,[case  det  amod  nmod],manipulation,0,0,50
+the Poor,0,0,[nmod:poss  dep],IRS,0,0,50
+vote,0,0,[case  det  amod  nmod],manipulation,fraudulent,manipulation,50
+firearms,0,0,[nmod],dominance,of,firearm,51
+bureaucracy,0,0,[case  det  amod],problem,bureaucracy-generated,problem,51
+bureaucracy,0,0,[case  det  amod],problem,0,0,51
+poverty,them,0,[nsubj  det  nmod],slave,0,0,51
+bureaucratic,0,0,[amod],slavery,bureaucratic,slavery,51
+voters,you,voter,[nsubj  dobj],oppressed,0,0,51
+firearms,0,0,[nmod],dominance,0,0,51
+taxes,tax,people,[mark  nsubj  dobj],oppress,0,0,51
+government,0,0,[det  compound],chattel,0,0,51
+bureaucratic,0,0,[amod],slavery,0,0,51
+poverty,them,0,[nsubj  det  nmod],slave,of,poverty,51
+government,0,0,[case  det  nmod],bondage,of,government,51
+Taxes,Taxes,0,[nsubj  cc  conj],oppress,0,0,51
+democracy,0,0,[mark  cop  det  amod  acl],democracy,enslaved,democracy,51
+government,0,0,[case  det  nmod],bondage,0,0,51
+hunger,0,0,[case  det  amod  nmod  det],indicator,0,0,52
+governmental,0,0,[case  nmod  cc  conj  amod  amod  nmod],experience,0,0,52
+money,money,0,[nsubj  ccomp],evolves,0,0,52
+inequality,0,0,[nummod  nmod],way,0,0,52
+debt,debt,0,[advmod  nsubjpass  auxpass  advmod  nmod],measured,0,0,52
+poverty,0,poverty,[mark  dobj  cc  conj],measuring,0,0,52
+inequality,0,0,[nummod  nmod],way,to,inequality,52
+democracy,it,0,[compound  mark  nsubj  cop  cc  conj],democracy,0,0,52
+poverty,0,0,[case  amod  conj  cc  conj],illness,0,0,52
+governmental,0,0,[case  nmod  cc  conj  amod  amod  nmod],experience,governmental,experience,52
+taxes,municipality,tax,[mark  advmod  nsubj  dobj],formulates,0,0,52
+poverty,0,0,[case  amod  conj  cc  conj],illness,unnecessary,illness,52
+governmental,0,0,[case  nmod  cc  conj  amod  amod  nmod],experience,in,policy,52
+jury,Larson,0,[nsubjpass  auxpass  nmod],selected,by,jury,52
+governmental,0,0,[case  nmod  cc  conj  amod  amod  nmod],experience,additional,experience,52
+governing,0,0,[case  amod  acl],procedure,0,0,52
+poverty,government,poverty,[nsubj  advmod  dobj  nmod],measure,in,America,52
+voter,0,0,[compound],calculus,0,0,52
+government,SIC,government,[nsubj  dobj  nmod],-RSB-,0,0,52
+hunger,0,0,[case  det  amod  nmod  det],indicator,in,hunger,52
+jury,Larson,0,[nsubjpass  auxpass  nmod],selected,0,0,52
+government,SIC,government,[nsubj  dobj  nmod],-RSB-,a,gaurdian,52
+governmental,0,0,[case  nmod  cc  conj  amod  amod  nmod],experience,in,state,52
+gun control,0,0,[det  compound  compound],baseball,0,0,53
+gun rights,right,0,[amod  nsubj  cop  amod],base,first,base,53
+bureaucratic,this,0,[advmod  nsubj  cop  det  amod  amod  compound  acl:relcl],game,0,0,53
+rule,0,rule,[mark  dobj],end,0,0,53
+bureaucracy,bureaucracy,0,[nsubj],lost,0,0,53
+guns,0,0,[det:predet  det  nmod],victory,0,0,53
+wealth,0,0,[det  compound],coach,0,0,53
+election campaign,0,0,[case  det  amod  compound  nmod],game,ever-shifting,game,53
+democratic,0,0,[det  amod  amod  compound],field,common,field,53
+Gun Control,Control,crime,[advmod  nsubj  dobj  advcl],join,0,0,53
+guns,0,0,[det:predet  det  nmod],victory,for,gun,53
+democratic,0,0,[det  amod  amod  compound],field,0,0,53
+bureaucratic,this,0,[advmod  nsubj  cop  det  amod  amod  compound  acl:relcl],game,little,game,53
+wealth,0,0,[det  nmod],chance,of,wealth,53
+election campaign,0,0,[case  det  amod  compound  nmod],game,0,0,53
+democracy,0,0,[case  det  compound],game,0,0,53
+wealth,0,0,[case  det  amod  compound  nmod],game,of,wealth,53
+wealth,0,0,[case  det  amod  compound  nmod],game,international,game,53
+property taxes,tax,0,[nmod:tmod  nsubj  aux  cop  det  nmod],challenge,0,0,53
+property taxes,tax,0,[nmod:tmod  nsubj  aux  cop  det  nmod],challenge,for,process,53
+Democracy,0,0,[compound],Rules,0,0,53
+gun,That,0,[nsubj  cop  neg  amod  compound  advmod],victory,0,0,53
+gun rights,right,0,[amod  nsubj  cop  amod],base,first,base,53
+wealth,0,0,[det  nmod],chance,0,0,53
+taxpayer,0,0,[csubj  cop  det  amod  compound  advmod  acl:relcl],ambush,well-designed,ambush,54
+tariff,0,0,[case  amod  compound],war,0,0,54
+poverty,0,0,[case  det  nmod  nmod],cost,of,ongoing,54
+gun control,0,0,[case  det  amod  compound  compound],movement,0,0,54
+gun control,0,0,[case  det  amod  compound  compound],movement,modern,movement,54
+gun control,0,0,[case  det  amod  compound  compound],battle,0,0,54
+Constitution,He,Constitution,[nsubj  advmod  dobj],attack,0,0,54
+wealth,wealth,will,[nsubj  dobj],torpedoed,0,0,54
+taxes,tax,0,[mark  nsubjpass  aux  auxpass  nmod],assessed,on,amount,54
+Poverty,0,0,[case  det  nmod],War,0,0,54
+bureaucratic,0,0,[case  amod  cc  conj],battle,bureaucratic,battle,54
+property tax,0,0,[det  nmod],assault,on,tax,54
+gun control,0,0,[case  nmod],collaborator,0,0,54
+gun control,0,0,[case  nmod],collaborator,with,control,54
+hunger,that,hunger,[nsubj  dobj  nmod],battle,around,world,54
+property tax,0,0,[det  nmod],assault,0,0,54
+poverty,0,0,[case  det  nmod  nmod],cost,on,poverty,54
+diplomatic,0,0,[case  det  amod],weapon,diplomatic,weapon,54
+Poverty,0,0,[case  det  nmod],War,on,Poverty,54
+Poverty,0,0,[det  nmod],War,of,Poverty,54
+poverty,0,0,[case  det  nmod  nmod],cost,ongoing,cost,54
+taxpayer,0,0,[csubj  cop  det  amod  compound  advmod  acl:relcl],ambush,0,0,54
+poverty,0,0,[case  det  nmod  nmod],cost,0,0,54
+gun control,0,0,[det  compound  compound  nmod],battle,for,year,54
+gun control,0,0,[det  compound  compound  nmod],battle,0,0,54
+gun control,0,0,[case  compound  compound],attack,0,0,54
+diplomatic,0,0,[case  det  amod],weapon,0,0,54
+fortunes,fortune,0,[nsubjpass  auxpass  nmod],tied,to,vagary,55
+policy,Accord,policy,[nsubj  dobj  nmod  nmod],envisaged,in,program,55
+federal government,0,0,[case  det  nmod],reach,0,0,55
+candidates,candidate,0,[advmod  aux  nsubj  nmod],stand,on,issue,55
+taxes,tax,0,[nsubj  xcomp],conform,more,conform,55
+taxes,tax,0,[nsubj  xcomp],conform,0,0,55
+candidates,candidate,0,[advmod  aux  nsubj  nmod],stand,0,0,55
+political,0,0,[det  amod],ladder,political,ladder,55
+political,0,0,[det  amod],ladder,0,0,55
+politics,0,0,[case  det  nmod],intrusion,of,politics,55
+federal government,0,0,[case  det  nmod],reach,of,government,55
+vote,extremely,0,[dep  nsubj  ccomp],close,0,0,55
+fortunes,fortune,0,[nsubjpass  auxpass  nmod],tied,0,0,55
+bureaucrats,bureaucrat,outcome,[nsubj  aux  neg  dobj  conj  conj  cc  conj],improve,0,0,55
+administration,0,0,[det  nmod],form,0,0,55
+campaign,campaign,0,[advcl  nsubjpass  auxpass  advmod  advmod  nmod  nmod],tied,0,0,55
+army,DontStayIn,0,[nsubj  advmod  aux  neg  nmod],work,without,army,55
+constitution,constitution,right,[nsubj  cc  conj  dobj  cc  conj],assigns,0,0,55
+army,DontStayIn,0,[nsubj  advmod  aux  neg  nmod],work,0,0,55
+red tape,0,0,[case  nmod:poss  amod  amod  nmod],snare,own,snare,55
+policy,Accord,policy,[nsubj  dobj  nmod  nmod],envisaged,a,component,55
+campaign,campaign,0,[mark  nsubj  ccomp],nears,0,0,55
+campaign,campaign,0,[advcl  nsubjpass  auxpass  advmod  advmod  nmod  nmod],tied,with,Timmons,55
+politics,0,0,[case  det  nmod],intrusion,0,0,55
+red tape,0,0,[case  nmod:poss  amod  amod  nmod],snare,insidious,snare,55
+red tape,0,0,[case  nmod:poss  amod  amod  nmod],snare,of,tape,55
+guns,0,gun,[dobj],Protect,0,0,56
+taxpayers,0,taxpayer,[mark  dobj  nmod],help,from,failure,56
+taxpayer,nobody,taxpayer,[cc  nsubj  cop  mark  expl  dobj],defending,0,0,56
+free market,0,0,[case  nmod:poss  nmod],protection,of,market,56
+firearm,firearm,0,[mark  nsubjpass  auxpass  neg  nmod],protected,under,constitution,56
+minority rights,right,0,[mark  nsubjpass  auxpass],protected,0,0,56
+firearm,0,0,[neg],firearm,0,0,56
+democracy,0,0,[case  det  nmod],cushion,of,democracy,56
+Democracy,program,Democracy,[mark  nsubj  dobj  cc  conj],saved,0,0,56
+wealth,0,0,[nmod:poss  compound],shield,0,0,56
+taxpayers,taxpayer,0,[nsubjpass  auxpass],protected,0,0,56
+guns,who,gun,[nsubj  dobj],want,0,0,56
+guns,0,gun,[mark  dobj  dep],having,0,0,56
+democracy,0,0,[case  det  nmod],cushion,0,0,56
+democracy,democracy,0,[nsubj  cop  nmod],insurance,against,dictator,56
+guns,0,0,[neg],gun,0,0,56
+taxpayers,0,taxpayer,[mark  dobj  nmod],help,0,0,56
+democracy,0,whatever,[dobj  mark  dobj],save,0,0,56
+democracy,democracy,0,[nsubj  cop  nmod],insurance,0,0,56
+guns,Freedom,0,[nsubjpass  auxpass  neg  nmod  parataxis  nsubjpass  auxpass  advcl],ensured,by,gun,56
+guns,Freedom,0,[nsubjpass  auxpass  neg  nmod  parataxis  nsubjpass  auxpass  advcl],ensured,0,0,56
+free market,0,0,[case  nmod:poss  nmod],protection,0,0,56
+government,I,government,[mark  nsubj  dobj  advcl  nsubj  dobj  advmod  nmod],distrust,a,much,57
+Gun,0,0,[compound],hate,0,0,57
+wealth,0,0,[case  det  nmod],possession,of,wealth,58
+votes,Gore,vote,[advmod  nsubj  dobj],received,0,0,58
+democracy,democracy,0,[mark  nsubjpass  auxpass  advmod],restored,0,0,59
+democracy,Russia,0,[mark  nsubj  cop  case  amod  nmod  cc  conj],retreat,full,retreat,59
+democracy,Russia,0,[mark  nsubj  cop  case  amod  nmod  cc  conj],retreat,from,democracy,59
+government,government,0,[nsubj],return,0,0,59
+gun,0,0,[det  amod  compound],story,0,0,60
+gun,gun,0,[nsubj  ccomp],said,0,0,60
+democracy,number,something,[mark  advmod  nsubj  dobj  nmod  mark  nsubj  dobj],want,0,0,61
+legislation,legislation,0,[advmod  nsubj  compound:prt  nmod],fall,0,0,61
+wealth,0,0,[det  nmod],image,of,wealth,61
+taxation,0,0,[case  nmod  amod  amod],immigration,0,0,61
+poverty,0,0,[case  det  nmod],trough,of,poverty,61
+taxes,tax,0,[nmod  dep  nsubj  xcomp],became,In,economy,61
+wealth,0,0,[det  nmod],image,0,0,61
+legislation,legislation,0,[advmod  nsubj  compound:prt  nmod],fall,without,bureaucracy,61
+taxes,tax,0,[nmod  dep  nsubj  xcomp],became,0,0,61
+poverty,0,0,[case  det  nmod],trough,0,0,61
+taxation,0,0,[case  nmod  amod  amod],immigration,illegal,immigration,61
+taxes,0,0,[det  nmod],fat,of,tax,61
+taxation,0,0,[case  nmod  amod  amod],immigration,further,immigration,61
+democracy,majority,0,[nsubj  cop  neg  case  det  case  nmod:poss  nmod],prescription,of,democracy,62
+death tax,tax,job,[nsubj  dobj],kill,0,0,62
+Poverty,Poverty,life,[nsubj  aux  dobj],destroying,0,0,62
+taxation,0,0,[nmod],rise,of,taxation,63
+income tax,you,tax,[advcl  nsubj  aux  neg  ccomp  parataxis  dobj],see,0,0,63
+Government,0,0,[det  nmod],Rise,of,Government,63
+tax rates,rate,receipt,[mark  nsubj  dobj],increase,0,0,63
+the poor,0,0,[det  amod  nmod],mobility,upward,mobility,63
+theocracy,theocracy,0,[mark  nsubj  nmod  nmod],rise,to,plummet,63
+gun control,control,0,[nsubj  cop  ccomp],incremental,unavoidable,incremental,63
+gun control,control,0,[nsubj  cop  ccomp],incremental,0,0,63
+tax rate,it,rate,[mark  nsubj  dobj  advmod  dep  nmod  dep],raised,least,raised,63
+gasoline taxes,which,tax,[nsubj  aux  advmod  dobj],increased,0,0,63
+voter turnout,0,turnout,[dobj],increase,0,0,63
+gun,0,0,[case  compound  nmod],proliferation,in,America,63
+income,0,income,[mark  compound:prt  dobj  cc  conj],wiping,0,0,63
+Government,0,0,[det  nmod],Rise,0,0,63
+the poor,0,0,[det  amod  nmod],mobility,of,poor,63
+tax rate,it,rate,[mark  nsubj  dobj  advmod  dep  nmod  dep],raised,0,0,63
+taxation,0,0,[nmod],rise,0,0,63
+democracy,democracy,0,[mark  advmod  nsubj  nmod],rise,above,society,63
+tax rate,it,rate,[mark  nsubj  dobj  advmod  dep  nmod  dep],raised,to,level,63
+poverty,0,0,[mark  nmod],rise,0,0,63
+gun,0,0,[case  compound  nmod],proliferation,0,0,63
+wealth,wealth,level,[advmod  nsubj  advmod  dobj  nmod],increase,in,society,63
+the poor,0,0,[det  amod  nmod],mobility,poor,mobility,63
+poverty,0,0,[case  nmod:poss  nmod],rise,0,0,63
+minimum wage,0,wage,[advmod  dobj  nmod],changed,0,0,63
+poverty,0,0,[mark  nmod],rise,from,poverty,63
+minimum wage,0,wage,[advmod  dobj],increase,0,0,63
+poverty,0,0,[case  nmod:poss  nmod],rise,from,poverty,63
+inequality,0,0,[case  det  nmod],rise,in,inequality,63
+minimum wage,0,wage,[advmod  dobj  nmod],changed,for,Samoa,63
+wealth,wealth,level,[advmod  nsubj  advmod  dobj  nmod],increase,0,0,63
+inequality,0,0,[case  det  nmod],rise,0,0,63
+theocracy,theocracy,0,[mark  nsubj  nmod  nmod],rise,0,0,63
+poverty,poverty,0,[mark  nsubj  aux],increased,0,0,63
+wealth,0,0,[nmod:poss  compound],increase,0,0,63
+bureaucracy,0,bureaucracy,[mark  csubj  aux  advmod  dobj  dep],increase,0,0,63
+democratic,0,0,[case  det  amod  nmod],yearning,0,0,64
+government,who,government,[nsubj  dobj],desired,0,0,64
+democratic,0,0,[case  det  amod  nmod],yearning,democratic,yearning,64
+democratic,0,0,[case  amod],energy,0,0,65
+wealth,0,0,[nmod],Warmed,0,0,65
+regulations,Government,regulation,[nsubj  dobj],introduces,0,0,65
+bureaucratic,0,0,[case  amod  amod],energy,bureaucratic,energy,65
+civil service,0,0,[amod  compound],efficiency,civil,efficiency,65
+democracy,0,0,[case  det  amod  nmod],energy,kinetic,energy,65
+democracy,0,0,[case  det  amod  nmod],energy,of,democracy,65
+totalitarian,0,totalitarian,[mark  dobj],restore,0,0,65
+money,0,0,[det  nmod],amount,0,0,65
+democracy,0,0,[case  det  amod  nmod],energy,0,0,65
+democracy,0,0,[det  amod  nmod],explosion,0,0,65
+bureaucratic,0,0,[case  amod  amod],energy,0,0,65
+civil service,0,0,[amod  compound],efficiency,0,0,65
+democracy,0,0,[det  amod  nmod],explosion,recent,explosion,65
+money,0,0,[det  nmod],amount,of,money,65
+bureaucracy,Apathy,0,[nsubj  cop  det  nmod],fuel,of,bureaucracy,65
+bureaucracy,Apathy,0,[nsubj  cop  det  nmod],fuel,0,0,65
+gun control,that,0,[nsubj  cop  compound  nmod],control,in,country,66
+poverty,lot,0,[nsubj  compound:prt  nmod],get,0,0,66
+poverty,0,0,[cc  conj  nmod  acl],type,of,poverty,66
+poverty,many,0,[nsubj  nmod],fell,0,0,66
+poverty,0,them,[mark  dobj  nmod],pushing,into,poverty,66
+poverty,lot,0,[nsubj  compound:prt  nmod],get,of,poverty,66
+government,government,deficit,[nmod  nsubj  advmod  dobj  cc  conj  nmod],narrowed,With,introduction,66
+poverty,0,0,[auxpass  nmod],sucked,0,0,66
+democracy,0,0,[case  det  amod  nmod],chasm,global,chasm,66
+taxes,0,0,[case  det  amod  nmod],hole,of,tax,66
+government,government,deficit,[nmod  nsubj  advmod  dobj  cc  conj  nmod],narrowed,0,0,66
+poverty,0,0,[advmod  case  det  nmod],well,0,0,66
+poverty,0,0,[advmod  case  det  nmod],well,of,poverty,66
+poverty,0,0,[advmod  nmod],fell,into,poverty,66
+poverty,0,0,[det  compound],hole,0,0,66
+democratic,0,0,[case  det  amod  nmod],depth,of,Internet,66
+poverty,0,0,[auxpass  nmod],sucked,into,poverty,66
+democracy,it,democracy,[dep  advmod  nsubj  dobj],happens,0,0,66
+tax,0,0,[nmod:poss  amod  compound],hole,0,0,66
+wealth,0,0,[advmod  det  compound],chasm,0,0,66
+poverty,0,0,[case  amod  cc  conj  case  nummod],percent,9.2,percent,66
+taxation,0,0,[case  det  nmod],domain,0,0,66
+taxation,0,0,[case  det  nmod],domain,of,taxation,66
+taxes,0,0,[case  det  amod  nmod],hole,black,hole,66
+taxes,0,0,[case  det  amod  nmod],hole,0,0,66
+poverty,0,0,[advmod  nmod],fell,0,0,66
+democracy,it,democracy,[dep  advmod  nsubj  dobj],happens,more,happens,66
+gun control,Democrats,control,[mark  nsubj  dobj],regain,0,0,66
+Legislature,0,0,[det  compound],deepens,0,0,66
+poverty,Corporation,what,[mark  dobj  nsubj  dobj  advcl],call,0,0,66
+poverty,0,0,[mark  compound:prt  nmod],crawl,0,0,66
+gun control,that,0,[nsubj  cop  compound  nmod],control,0,0,66
+poverty,0,0,[case  amod  cc  conj  case  nummod],percent,0,0,66
+poverty,0,them,[mark  dobj  nmod],pushing,0,0,66
+gun control,0,0,[nmod:poss  nmod],Lamp,0,0,67
+wealth,0,0,[det  nmod],transmission,0,0,67
+democracy,0,0,[case  det  compound  nmod],beacon,0,0,67
+bureaucracy,0,0,[case  det  nmod],dawn,0,0,67
+bureaucracy,0,0,[case  det  nmod],dawn,of,bureaucracy,67
+poverty,0,0,[det  compound],propagation,0,0,67
+gun control,0,0,[nmod:poss  nmod],Lamp,of,control,67
+low-tax,We,0,[nsubj  cop  advmod  det  compound  nmod],beacon,0,0,67
+low-tax,We,0,[nsubj  cop  advmod  det  compound  nmod],beacon,of,world,67
+democracy,0,record,[dobj  nmod],given,of,democracy,67
+democracy,0,0,[case  det  compound  nmod],beacon,for,rest,67
+taxation,taxation,priority,[nsubj  dobj  advcl],reflects,0,0,67
+democracy,0,0,[det  amod  nmod],sun,of,democracy,67
+democracy,0,record,[dobj  nmod],given,0,0,67
+democracy,0,0,[det  amod  nmod],sun,0,0,67
+democracy,0,record,[dobj  nmod],given,to,democracy,67
+gun,0,0,[det  amod  compound],moron,pro,moron,68
+bureaucracy,0,0,[det  amod  nmod],road,to,bureaucracy,69
+democracy,0,0,[case  det  nmod],road,to,democracy,69
+election,0,0,[case  det  compound  nmod],trail,with,access,69
+taxation,0,0,[det  amod  nmod],road,open,road,69
+Poverty,Poverty,0,[nsubj  nmod],lead,to,problem,69
+self-government,that,0,[nsubj  nmod],lead,to,self-government,69
+bureaucracy,0,0,[case  amod  compound  cc  conj  nmod],twist,thru,bloc,69
+guns,gun,0,[nsubj  nmod],lead,to,death,69
+bureaucracy,0,0,[case  amod  compound  cc  conj  nmod],twist,corp,twist,69
+bureaucracy,0,0,[det  amod  nmod],road,0,0,69
+election,0,0,[case  det  compound  nmod],trail,0,0,69
+guns,gun,0,[nsubj  nmod],lead,0,0,69
+bureaucracy,0,0,[case  amod  compound  cc  conj  nmod],twist,0,0,69
+taxation,0,0,[det  amod  nmod],road,0,0,69
+elections,0,0,[nmod],leading,to,election,69
+bureaucracy,0,0,[det  amod  nmod],road,short,road,69
+elections,0,0,[nmod],leading,0,0,69
+taxes,she,road,[advcl  nsubj  dobj  nmod],take,to,tax,69
+Poverty,Poverty,0,[nsubj  nmod],lead,0,0,69
+self-government,that,0,[nsubj  nmod],lead,0,0,69
+democracy,solution,0,[nsubj  amod  compound],craves,American,craves,70
+Democracy,0,0,[compound  cc  conj],rage,0,0,70
+wealth,0,0,[case  det  nmod],brim,with,wealth,70
+hunger,who,0,[nsubj  nmod],suffer,from,hunger,70
+gun control,0,0,[case  compound  compound],message,0,0,70
+democracy,0,0,[case  det  nmod],model,of,democracy,70
+democracy,0,0,[case  det  nmod],model,0,0,70
+government,government,monopoly,[nsubj  aux  advmod  dobj  nmod],enjoy,on,production,70
+guns,0,0,[case  nmod],favor,of,gun,70
+hunger,who,0,[nsubj  nmod],suffer,0,0,70
+wealth,0,0,[case  det  nmod],brim,0,0,70
+democracy,solution,0,[nsubj  amod  compound],craves,0,0,70
+gun control,this,0,[nsubj  aux  cop  cc  conj  nmod],deliberate,intentional,deliberate,70
+tax,0,0,[compound],greed,0,0,70
+gun control,0,0,[case  nmod],favour,0,0,70
+gun control,0,0,[case  nmod],favour,of,control,70
+gun control,this,0,[nsubj  aux  cop  cc  conj  nmod],deliberate,of,control,70
+government,government,monopoly,[nsubj  aux  advmod  dobj  nmod],enjoy,0,0,70
+civil liberties,0,liberty,[mark  dobj],respecting,0,0,70
+Gun control,control,0,[nsubj  xcomp],chooses,0,0,70
+gun control,control,0,[nsubj  cop],idiocy,0,0,70
+gun control,this,0,[nsubj  aux  cop  cc  conj  nmod],deliberate,0,0,70
+democracy,Wolfowitz,passion,[nsubj  aux  advmod  dobj  nmod],demonstrated,0,0,70
+wealth,0,0,[mark  advmod  cop  det  nmod],disease,of,wealth,71
+tax,0,0,[case  det  amod  compound  compound],http://hjta.org/california-commentary/more-devilish-legislation-out-sacramento,new,http://hjta.org/california-commentary/more-devilish-legislation-out-sacramento,71
+Poverty,Poverty,woman,[nsubj  dobj  cc  conj],debilitates,0,0,71
+gun,exception,0,[nsubj  aux  aux  cop  det  amod  amod  cc  conj  nmod],ban,of,gun,71
+wealth,0,0,[det  nmod],affliction,of,wealth,71
+democracy,democracy,0,[advmod  mark  nsubjpass  auxpass  nmod],reduced,0,0,71
+poverty,0,poverty,[dobj],alleviate,0,0,71
+democracy,we,0,[advmod  nsubj  nmod],suffer,from,democracy,71
+poverty,0,poverty,[mark  dobj],fighting,0,0,71
+inequality,0,inequality,[mark  dobj  nmod],eliminating,to,opportunity,71
+poverty,0,0,[case  det  amod  nmod  case  det  nmod],transmission,intergenerational,transmission,71
+Wealth,Wealth,labor,[nsubj  dobj  advcl],alleviates,0,0,71
+voters,gridlock,voter,[cc  nmod  nsubj  dobj  nmod],infects,with,hatred,71
+poverty,0,0,[case  compound  cc  conj],relief,0,0,71
+Poverty,0,0,[case  cc  conj  nmod],Incidence,from,Poverty,71
+poverty,0,0,[det  nmod  case  det],link,between,poverty,71
+poverty,0,0,[case  compound  compound],family,0,0,71
+Poverty,0,0,[case  cc  conj  nmod],Incidence,0,0,71
+poverty,0,poverty,[mark  dobj  nmod  nmod],addressing,in,region,71
+poverty,0,0,[case  det  amod  appos  nmod  cc  conj],context,Indian,context,71
+poverty,0,0,[case  det  amod  appos  nmod  cc  conj],context,0,0,71
+gun,exception,0,[nsubj  aux  aux  cop  det  amod  amod  cc  conj  nmod],ban,0,0,71
+poverty,0,0,[case  det  nmod],cause,of,poverty,71
+wealth,0,0,[det  nmod],affliction,0,0,71
+wealth,0,0,[mark  advmod  cop  det  nmod],disease,0,0,71
+poverty,Stress,0,[nsubj  nmod  cc  conj],related,0,0,71
+democracy,democracy,0,[mark  nsubj  cop  det  nmod],panacea,against,use,71
+democracy,we,0,[advmod  nsubj  nmod],suffer,0,0,71
+poverty,0,0,[amod  cc  conj  conj  cc  conj],infrastructure,0,0,71
+poverty,people,0,[advmod  nsubj  nmod],suffer,0,0,71
+Poverty,0,0,[compound  compound  dep  dep],Report,0,0,71
+the rich,rich,0,[nsubj  cop  det  nmod],cancer,upon,politic,71
+the rich,rich,0,[nsubj  cop  det  nmod],cancer,rich,cancer,71
+poverty,0,0,[conj  cc  conj  dep],Scott,0,0,71
+inequality,0,inequality,[mark  dobj  nmod],eliminating,0,0,71
+voters,gridlock,voter,[cc  nmod  nsubj  dobj  nmod],infects,in,sort,71
+Congress,0,0,[mark  cop  det  amod  nmod],affliction,regular,affliction,71
+Democracy,motto,0,[nmod  nsubj  cop  compound  dep],cure,0,0,71
+Congress,0,0,[mark  cop  det  amod  nmod],affliction,of,Congress,71
+poverty,0,0,[case  det  amod  nmod],consequence,debilitating,consequence,71
+poverty,0,0,[det  nmod  case  det],link,0,0,71
+poverty,0,0,[case  amod  cc  conj  nmod],death,parental,death,71
+bureaucratic,0,0,[det  amod  nmod],remedy,for,problem,71
+tax,0,0,[case  det  amod  compound  compound],http://hjta.org/california-commentary/more-devilish-legislation-out-sacramento,0,0,71
+Congress,0,0,[mark  cop  det  amod  nmod],affliction,0,0,71
+taxation,0,0,[det  nmod  acl:relcl],disease,0,0,71
+poverty,0,poverty,[mark  dobj],escaping,0,0,71
+poverty,fungi,poverty,[nsubj  aux  advmod  dobj  nmod],remedy,0,0,71
+poverty,0,0,[det  nmod],situation,of,poverty,71
+taxation,0,0,[det  nmod  acl:relcl],disease,of,taxation,71
+Democracy,motto,0,[nmod  nsubj  cop  compound  dep],cure,In,East,71
+bureaucratic,0,0,[det  amod  nmod],remedy,bureaucratic,remedy,71
+poverty,0,0,[case  det  nmod],effect,0,0,71
+taxation,0,0,[case  det  amod  nmod],prescription,normative,prescription,71
+poverty,0,0,[case  det  amod  nmod  case  det  nmod],transmission,to,poverty,71
+poverty,0,poverty,[mark  dobj  nmod  nmod],addressing,0,0,71
+poverty,0,0,[case  det  amod  nmod  case  det  nmod],transmission,of,poverty,71
+poverty,0,0,[case  det  amod  nmod],consequence,of,poverty,71
+poverty,0,poverty,[mark  dobj  nmod  nmod],addressing,around,world,71
+poverty,0,0,[case  nmod  amod],interest,in,poverty,71
+poverty,0,0,[case  det  amod  nmod],consequence,0,0,71
+poverty,poverty,whom,[mark  dobj  nsubj  cop],intractable,0,0,71
+poverty,Stress,0,[nsubj  nmod  cc  conj],related,to,poverty,71
+democracy,democracy,0,[mark  nsubj  cop  det  nmod],panacea,0,0,71
+Poverty,Poverty,0,[nsubj  cop  det  acl:relcl],cancer,0,0,71
+poverty,0,0,[case  nmod  amod],interest,0,0,71
+poverty,fungi,poverty,[nsubj  aux  advmod  dobj  nmod],remedy,without,fertilizer,71
+poverty,0,0,[case  det  amod  nmod  case  det  nmod],transmission,0,0,71
+poverty,practice,0,[mark  nsubj  nmod],living,in,poverty,71
+elections,0,0,[amod  cc  conj],confirmation,public,confirmation,71
+bureaucratic,0,0,[det  amod  nmod],remedy,0,0,71
+poverty,0,0,[case  det  nmod],effect,of,poverty,71
+property tax,0,0,[case  compound  compound],relief,0,0,71
+democracy,democracy,0,[advmod  mark  nsubjpass  auxpass  nmod],reduced,to,holding,71
+gun,exception,0,[nsubj  aux  aux  cop  det  amod  amod  cc  conj  nmod],ban,total,ban,71
+gun,exception,0,[nsubj  aux  aux  cop  det  amod  amod  cc  conj  nmod],ban,worldwide,ban,71
+poverty,people,0,[advmod  nsubj  nmod],suffer,from,poverty,71
+poverty,0,0,[case  amod  cc  conj  nmod],death,on,education,71
+Poverty,0,0,[compound  compound],Traps,0,0,71
+governments,0,0,[amod  nmod],arm,0,0,72
+government,0,0,[case  det  nmod],reach,of,government,72
+police force,0,0,[case  det  compound  nmod],head,of,force,72
+Democracy,0,0,[case  det  nmod],voice,of,Democracy,72
+democracy,democracy,0,[nmod  nsubj  cop  det  amod  nmod],hand,Behind,control,72
+election,election,presidency,[mark  nsubj  advmod  aux  dobj  nmod  cc  conj],hand,0,0,72
+democracy,0,0,[case  det  nmod],hand,of,democracy,72
+Democracy,0,0,[case  det  nmod],voice,0,0,72
+election,election,presidency,[mark  nsubj  advmod  aux  dobj  nmod  cc  conj],hand,to,Cheney,72
+elected,0,0,[nmod:poss  amod  nmod  acl],head,0,0,72
+democracy,0,0,[case  det  nmod],heart,0,0,72
+police force,0,0,[case  det  compound  nmod],head,0,0,72
+starvation,billion,starvation,[mark  nsubj  dobj],face,0,0,72
+gun controls,you,what,[dobj  nsubj  advcl],mean,0,0,72
+civil liberty,0,0,[case  det  nmod],eye,of,liberty,72
+tax,0,0,[case  compound  acl:relcl],body,0,0,72
+civil liberty,0,0,[case  det  nmod],eye,0,0,72
+elections,election,0,[nsubjpass  auxpass  advmod  advmod  cc  conj],remembered,0,0,72
+tax,0,0,[case  nmod:poss  compound],profile,'s,plaintiff,72
+government,0,0,[case  det  nmod],reach,0,0,72
+tax,0,0,[case  nmod:poss  compound],profile,0,0,72
+salaries,0,0,[advmod  nmod],look,0,0,72
+salaries,0,0,[advmod  nmod],look,at,salary,72
+democracy,0,0,[case  det  nmod],heart,of,democracy,72
+elected,0,0,[nmod:poss  amod  nmod  acl],head,'s,Bhutan,72
+elected,0,0,[nmod:poss  amod  nmod  acl],head,of,Government,72
+democracy,democracy,0,[nmod  nsubj  cop  det  amod  nmod],hand,of,power,72
+Taxation,Taxation,u,[nsubj  dobj  nmod  nmod:tmod  cc  conj],grip,0,0,72
+government,government,Yanukovych,[mark  nsubj  dobj],strong-armed,0,0,72
+red tape,0,tape,[dobj  cc  conj],Cutting,0,0,73
+taxes,0,0,[conj  cc  conj  nmod],tax,on,earner,73
+taxation,that,taxation,[nsubj  aux  advmod  dobj  nmod],afford,0,0,73
+taxation,0,0,[det  nmod],level,of,taxation,73
+poverty,poverty,u,[nmod  nsubj  dobj  nmod  cc  conj],hit,in,face,73
+poverty,0,poverty,[mark  dobj],crushing,0,0,73
+being poor,0,0,[cop],poor,0,0,73
+red tape,0,tape,[mark  dobj  nmod],cutting,0,0,73
+poverty,poverty,0,[nmod  nsubj  cop  det  acl],restraint,in,which,73
+legality,0,legality,[mark  dobj  nmod],reject,0,0,73
+taxation,that,taxation,[nsubj  aux  advmod  dobj  nmod],afford,for,sake,73
+taxation,0,0,[det  nmod],sort,of,taxation,73
+tax,reality,0,[advcl  nsubj  cop  det  amod  acl:relcl],tax,pinch,tax,73
+red tape,0,tape,[mark  dobj  nmod],cutting,in,Government,73
+taxes,0,0,[auxpass  nmod],beaten,by,tax,73
+taxes,0,0,[auxpass  nmod],beaten,0,0,73
+human rights,0,0,[amod  nmod],protection,0,0,73
+legality,0,legality,[mark  dobj  nmod],reject,at,hand,73
+firearms,which,firearm,[nsubj  dobj],impact,0,0,73
+governments,0,government,[mark  dobj  conj  cc  conj],restrain,0,0,73
+taxes,non-rich,0,[mark  nsubjpass  auxpass  advmod  nmod],harmed,by,tax,73
+poverty,0,0,[case  amod  compound],today,0,0,73
+taxes,0,0,[conj  cc  conj  nmod],tax,0,0,73
+poverty,poverty,0,[nmod  nsubj  cop  det  acl],restraint,0,0,73
+taxation,0,0,[det  nmod],level,0,0,73
+tax,reality,0,[advcl  nsubj  cop  det  amod  acl:relcl],tax,0,0,73
+poverty,poverty,u,[nmod  nsubj  dobj  nmod  cc  conj],hit,0,0,73
+poverty,0,0,[case  amod  compound],today,absolute,today,73
+human rights,0,0,[amod  nmod],protection,of,right,73
+taxation,that,taxation,[nsubj  aux  advmod  dobj  nmod],afford,least,afford,73
+taxation,0,0,[det  nmod],sort,0,0,73
+taxes,non-rich,0,[mark  nsubjpass  auxpass  advmod  nmod],harmed,0,0,73
+democracy,democracy,liberty,[mark  nsubj  dobj  cc  conj],threatens,0,0,73
+taxation,it,0,[nsubj  cop  det  compound  nmod],Horse,of,taxation,74
+democracy,0,0,[case  case  det  amod  nmod],prey,0,0,74
+Democracy,0,0,[case  nmod:poss  amod  nmod],claw,filthy,claw,74
+bureaucracy,0,0,[case  det  amod  nmod],talon,0,0,74
+bureaucracy,0,0,[case  det  amod  nmod],fang,of,bureaucracy,74
+bureaucracy,0,0,[det  nmod],tentacle,of,bureaucracy,74
+taxpayer,0,0,[aux  cop  det  compound  compound  nmod  nmod],dog,for,year,74
+gun,I,0,[cc  advmod  aux  nsubj  dep],use,0,0,74
+wealth,0,0,[case  det  nmod],carapace,of,wealth,74
+bureaucracy,0,0,[det  nmod],tentacle,0,0,74
+gun rights,0,right,[mark  dobj  compound:prt  nmod],breed,of,u,74
+guns,gun,0,[case  dep  nsubjpass  auxpass  compound:prt],rounded,many,rounded,74
+bureaucracy,0,0,[case  det  amod  nmod],fang,0,0,74
+democracy,0,0,[det  nmod],watchdog,0,0,74
+democracy,democracy,way,[advmod  mark  nsubj  dobj  nmod],claw,0,0,74
+lawmakers,0,0,[nmod],mauled,by,lawmaker,74
+lawmakers,0,0,[nmod],mauled,0,0,74
+taxpayer,0,0,[aux  cop  det  compound  compound  nmod  nmod],dog,0,0,74
+government,government,0,[advmod  nsubj  nmod  ccomp],bark,out,order,74
+poverty,0,0,[det  compound  compound],tiger,0,0,74
+Poverty,Poverty,0,[nsubj  ccomp],engenders,0,0,74
+poverty,0,0,[compound],migration,0,0,74
+taxpayer,0,0,[aux  cop  det  compound  compound  nmod  nmod],dog,in,Illinois,74
+taxation,it,0,[nsubj  cop  det  compound  nmod],Horse,0,0,74
+gun-control,0,0,[case  amod],lie,0,0,74
+bureaucracy,0,0,[case  det  amod  nmod],talon,cold,talon,74
+government,0,government,[mark  dobj],tame,0,0,74
+bureaucracy,0,bureaucracy,[mark  dobj],taming,0,0,74
+government,0,0,[det  amod  dep  nmod],claw,of,government,74
+democracy,0,0,[case  compound],peck,0,0,74
+chose,they,space,[dep  advcl  nsubj  aux  dobj  advmod],move,0,0,74
+government,0,0,[det  amod  dep  nmod],claw,0,0,74
+guns,gun,0,[mark  nsubj  cop],trackable,0,0,74
+democracy,0,0,[case  case  det  amod  nmod],prey,natural,prey,74
+Democracy,0,0,[case  nmod:poss  amod  nmod],claw,of,Democracy,74
+wealth,0,0,[case  det  nmod],carapace,0,0,74
+democracy,democracy,way,[advmod  mark  nsubj  dobj  nmod],claw,into,kingdom,74
+poverty,Globalisation,million,[nsubj  aux  dobj  nmod],freeing,0,0,74
+democracy,It,0,[nsubj  cop  amod  acl:relcl],democracy,mature,democracy,75
+government agencies,0,0,[case  appos  case  nmod:poss  amod],year,0,0,75
+democracy,It,0,[nsubj  cop  amod  acl:relcl],democracy,0,0,75
+regulation,That,0,[nsubj  cop  advmod  det  nmod],failure,of,regulation,75
+taxation,taxation,0,[nsubj  nmod],raced,with,cost,75
+Democracy,Democracy,0,[nsubj  nmod],competes,against,them,75
+election,ALP,election,[nsubj  dobj  cc  conj],won,0,0,75
+elections,0,election,[dobj],win,0,0,75
+regulation,That,0,[nsubj  cop  advmod  det  nmod],failure,0,0,75
+elections,0,0,[case  amod  nmod  case  amod  nmod],round,first,round,75
+elections,0,0,[case  amod  nmod  case  amod  nmod],round,of,election,75
+taxation,taxation,0,[nsubj  nmod],raced,0,0,75
+election,0,0,[case  det  compound  compound],contest,0,0,75
+elections,0,0,[case  amod  nmod  case  amod  nmod],round,of,election,75
+election,para,election,[nsubj  dobj],won,0,0,75
+elections,0,0,[case  amod  nmod  case  amod  nmod],round,0,0,75
+elections,0,0,[case  amod  nmod  case  amod  nmod],round,of,election,75
+Democracy,Democracy,0,[nsubj  nmod],competes,0,0,75
+elections,0,0,[case  amod  nmod  case  amod  nmod],round,of,election,75
+democracy,democracy,pressure,[advmod  nsubj  dobj  nmod  advcl],reduced,0,0,76
+debt,0,0,[nmod:poss  compound],load,0,0,76
+tax,0,0,[case  det  compound],burden,0,0,76
+being poor,0,0,[mark  cop],poor,0,0,76
+regulation,0,0,[det  nmod],burden,of,regulation,76
+regulation,0,0,[det  nmod],deadweight,0,0,76
+taxation,0,0,[det  nmod],burden,0,0,76
+taxes,tax,0,[mark  nsubj  advmod],are,0,0,76
+Tax,0,0,[det  compound],load,0,0,76
+firearms,0,0,[mark  nmod  nmod],come,due,firearm,76
+government,0,0,[case  amod  case  compound],growth,0,0,76
+taxation,0,0,[case  nmod:poss  compound  cc  conj],burden,0,0,76
+taxes,tax,0,[nsubj  cop  advmod],light,0,0,76
+government,0,0,[nmod:poss  acl:relcl],relief,'s,government,76
+governments,0,government,[mark  dobj  nmod],pressure,0,0,76
+government,0,0,[nmod:poss  acl:relcl],relief,0,0,76
+income tax,0,0,[case  amod  compound  nmod],cut,more,cut,76
+income tax,0,0,[case  amod  compound  nmod],cut,0,0,76
+tax,0,0,[compound],burden,0,0,76
+tax,0,0,[det  amod  compound  acl:relcl  nmod],burden,additional,burden,76
+government,0,0,[det  nmod],burden,of,government,76
+income tax,0,0,[case  amod  compound  nmod],cut,for,wealthiest,76
+administrative,0,0,[amod  amod],burden,administrative,burden,76
+government,government,acreage,[nmod  nsubj  dobj],reduced,0,0,76
+firearms,0,0,[mark  nmod  nmod],come,to,office,76
+administrative,0,0,[amod  amod],burden,unnecessary,burden,76
+administrative,0,0,[amod  amod],burden,0,0,76
+taxation,0,0,[case  nmod:poss  compound  cc  conj],burden,'s,one,76
+property tax,0,0,[det  amod  compound  compound  compound  compound  nmod],burden,for,2008,76
+educational debt,0,0,[det  amod  compound  nmod],load,of,physician,76
+regulation,0,0,[det  nmod],burden,0,0,76
+tax,0,0,[case  det  compound],burden,0,0,76
+property tax,0,0,[det  amod  compound  compound  compound  compound  nmod],burden,total,burden,76
+government,0,0,[case  amod  case  compound],growth,economic,growth,76
+government,government,acreage,[nmod  nsubj  dobj],reduced,in,2002,76
+inequality,0,inequality,[dobj],reduce,0,0,76
+government,0,0,[det  nmod],burden,0,0,76
+tax,0,0,[amod  compound],burden,local,burden,76
+tax,0,0,[amod  compound],burden,0,0,76
+tax,0,0,[det  amod  compound  acl:relcl  nmod],burden,for,debt,76
+governments,0,government,[mark  dobj  nmod],pressure,for,change,76
+property tax,0,0,[det  amod  compound  compound  compound  compound  nmod],burden,0,0,76
+income tax,0,0,[case  amod  compound  nmod],cut,wealthiest,cut,76
+tax,0,0,[nmod:poss  compound],burden,0,0,76
+democracy,democracy,pressure,[advmod  nsubj  dobj  nmod  advcl],reduced,on,bank,76
+poverty,0,poverty,[dobj],alleviate,0,0,76
+tax,0,0,[det  amod  compound  acl:relcl  nmod],burden,0,0,76
+tax,0,0,[nmod:poss  compound],burden,'s,state,76
+educational debt,0,0,[det  amod  compound  nmod],load,educational,load,76
