@@ -10,7 +10,7 @@ import csv
 
 COLUMNS = ['LmSource', 'LmTarget', 'Metaphoricity', 'subj', 'dobj', 'syn', 'verb', 'obl1', 'obl2', 'sent1']
 
-df_in = pd.read_csv('/Users/ZaqRosen/Desktop/ML_Meta4/mohler_withTags.csv', names=COLUMNS, skipinitialspace=True)
+df_in = pd.read_csv('~/Corpora/mohler/mohler_withTags.csv', names=COLUMNS, skipinitialspace=True)
 
 ###MOHLER MODEL VECTOR REPRESENTATIONS###
 #The following 'opens up' the package for the Glove2Vec models. This will then
