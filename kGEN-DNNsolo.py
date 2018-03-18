@@ -7,8 +7,8 @@ import numpy as np
 tf.logging.set_verbosity(tf.logging.INFO)
 
 ###SMALL DATASETS, NO INCLUSION OF ARG=XREF###
-Train_Data2 = '~/Corpora/mohler/train_data11-9v4.csv'
-Test_Data2 = '~/Corpora/mohler/test_data11-9v4.csv'
+Train_Data2 = '~/Corpora/mohler/train_data9v4.csv'
+Test_Data2 = '~/Corpora/mohler/test_data9v4.csv'
 
 feature_columns = ['LmTarget', 'subj', 'dobj', 'syn', 'verb', 'obl1', 'obl2']
 DNN_COLUMNS = ['LmTarget', 'subj', 'dobj', 'syn', 'verb', 'obl1', 'obl2', 'Labels']
